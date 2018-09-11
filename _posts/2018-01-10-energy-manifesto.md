@@ -11,7 +11,7 @@ Bulgaria do as individual countries. Some blockchain networks, like Ethereum,
 are moving away from mining as the mechanism for verifying asset transactions,
 but the Crypto Noobs are taking a different approach ..."
 header:
-  image: "posts/green-energy-mario-image-1.jpg"
+  image: #"posts/green-energy-mario-image-1.jpg"
 
 ---
 
