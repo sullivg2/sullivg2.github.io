@@ -14,6 +14,7 @@ header:
   image: #"posts/green-energy-mario-image-1.jpg"
 
 ---
+**This post was originally featured on the [Crypto Noob Club](https://cryptonoob.club)**
 
 Energy consumption is one of the biggest critiques of cryptocurrency and
 blockchain asset mining worldwide. According to the [Bitcoin Energy Consumption
