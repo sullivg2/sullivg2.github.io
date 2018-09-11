@@ -14,7 +14,7 @@ infrastructure for platforms, and channel partners as well as some ongoing
 entrepreneurial endeavors. My diverse experience has given me a unique
 perspective on the enterprise and service provider technology ecosystem where
 now, community, “openness” and APIs are such critical components. I'm interested
-in how technology impacts business and my speciality is marketing highly
+in how technology impacts business and my speciality is building and marketing highly
 technical, disruptive products and services.
 
 I'm an advocate of open source technology, having dedicated many years to
