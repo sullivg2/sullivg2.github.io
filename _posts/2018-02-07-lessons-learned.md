@@ -10,6 +10,7 @@ header:
   image: #"posts/coalmine.gif"
 
 ---
+**This post was originally featured on the [Crypto Noob Club](https://cryptonoob.club)**
 
 For those who have been following the Crypto Noob Mining Club's journey to
 production, we're finally here! The miners are up and running and we've just

@@ -22,7 +22,7 @@ supporting the adoption of [OpenStack](https://www.openstack.org/) and other
 open source projects. I currently a community ambassador for
 the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 
-Currently, I work for Juniper Networks where I am the head of marketing for
+Currently, I work for [Juniper Networks](https://www.juniper.net) where I am the head of marketing for
 Canada, the Caribbean and Latin America. I also am an advisor to
 [Cloud-A](https://www.clouda.ca), a Canadian IaaS provider,
 [Ammeris](https://www.ammeris.com), a renewables powered blockchain company and
