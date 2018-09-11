@@ -1,5 +1,6 @@
 ---
-title:  "Blockchain's Energy Problem and the Need for Renewable Processing Power"
+title:  "Blockchain's Energy Problem and the Need for Renewable Processing
+          Power"
 categories:
  - Mining
 author: Geoff Sullivan
