@@ -20,7 +20,7 @@ technical, disruptive products and services.
 I'm an advocate of open source technology, having dedicated many years to
 supporting the adoption of [OpenStack](https://www.openstack.org/) and other
 open source projects. I currently a community ambassador for
-the [Tungsten Fabric](https://tungsten.io/)community (formally OpenContrail.)
+the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 
 Currently, I work for Juniper Networks where I am the head of marketing for
 Canada, the Caribbean and Latin America. I also am an advisor to
