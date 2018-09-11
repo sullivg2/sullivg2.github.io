@@ -14,6 +14,10 @@ header:
 author_profile: true
 
 ---
+```
+This post was orginally featured on [H]ustle & Grind](https://hustleandgrind.co/)
+```
+
 There is no denying that the tech startups of today have a massive advantage
 over their counterparts from just a decade ago. Cloud Computing is just one of
 the services that have provided the technical foundation for today’s fastest
