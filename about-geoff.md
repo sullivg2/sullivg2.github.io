@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about-geoff
+permalink: /about
 ---
 
 ## About Geoff
