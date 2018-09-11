@@ -23,13 +23,11 @@ club's behalf to protect and grow the long term profitability of the operation.
 
 **Here is what our club is looking like as of right now:**
 
-- 9 x Moonlander2 ASIC stick miners currently mining Litecoin with an average hashing rate of 29,833 kH/s.
+- 9 x Moonlander2 ASIC stick miners currently mining Litecoin with an average
+hashing rate of 29,833 kH/s.
 
-{% img 'posts/moonlanders.jpg' %}
-
-- 3 x GPU miners currently mining Sumokoin with an average hashing rate of 934H/S.
-
-{% img 'posts/gpu.jpg' %}
+- 3 x GPU miners currently mining Sumokoin with an average hashing rate of
+934H/S.
 
 ## Market Struggles and the Impact on the Club
 
@@ -37,8 +35,6 @@ The global market capitalization of cryptocurrencies has taken a $500
 billion hit over the last month resulting in a lot of fear uncertainly and
 doubt (FUD.) We've been watching the markets closely and have observed some
 interesting trends that will impact our club - and we see areas for opportunity.
-
-{% img 'posts/market-cap-drop.png' %}
 
 ### Decreases in Short-term Mining Profitability
 
