@@ -24,7 +24,7 @@ community (formally OpenContrail.)
 
 Currently, I work for Juniper Networks where I am the head of marketing for
 Canada, the Caribbean and Latin America. I also am an advisor to
-[Cloud-A](https://clouda.ca), a Canadian IaaS provider,
-[Ammeris](https://ammeris.com), a renewables powered blockchain company and am
+[Cloud-A](https://www.clouda.ca), a Canadian IaaS provider,
+[Ammeris](https://www.ammeris.com), a renewables powered blockchain company and am
 the co-founder of the [Crypto Noob Club](https://cryptonoob.club/), a
 cryptocurrency mining co-operative for beginners.
