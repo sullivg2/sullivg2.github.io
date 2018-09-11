@@ -11,6 +11,7 @@ centre, cloud computing provides incredible flexibility and feature rich tool
 sets that allow companies to gain a true competitive advantage in their market."
 header:
   image: #"posts/coalmine.gif"
+author_profile: true
 
 ---
 There is no denying that the tech startups of today have a massive advantage
