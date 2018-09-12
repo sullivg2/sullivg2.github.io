@@ -16,7 +16,6 @@ author_profile: true
 ---
 
 **This post was orginally featured on [Hustle & Grind](https://hustleandgrind.co/)**
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
 {: .notice--info}
 
 There is no denying that the tech startups of today have a massive advantage
