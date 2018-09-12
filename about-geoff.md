@@ -4,8 +4,6 @@ permalink: /about
 author_profile: true
 ---
 
-## About Geoff
-
 Translating the business value of technology since 2011, I am a technology
 marketer and advisor who is fascinated about the business of technology, and
 the technology of business. My specialty is cloud infrastructure and how it can
