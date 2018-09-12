@@ -15,6 +15,7 @@ header:
 
 ---
 **This post was originally featured on the [Crypto Noob Club](https://cryptonoob.club)**
+{: .notice--info}
 
 Energy consumption is one of the biggest critiques of cryptocurrency and
 blockchain asset mining worldwide. According to the [Bitcoin Energy Consumption
