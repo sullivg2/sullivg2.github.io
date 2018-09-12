@@ -3,6 +3,7 @@ layout: single
 permalink: /advisory
 author_profile: true
 ---
+## Advisory
 
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
@@ -11,3 +12,26 @@ of the technology landscape. My specialty is building and marketing highly
 technical infrastructure products or services.
 
 If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net).
+
+Here is a list of companies who I actively advise for:
+
+* [**Ammeris**](https://www.ammeris.com/) - Born from a Canadian, clean-energy,
+and decentralized mindset, Ammeris has been founded by a group of entrepreneurs,
+technologists, and financiers that are passionate about sustainable solutions to
+interoperability and trust issues, determined to illuminate a path forward using
+blockchain and wider decentralized technologies.
+
+* [**Cloud-A**](https://www.clouda.ca/) - Cloud-A is a Canadian Infrastructure-
+as-a-service pioneer, and the first Canadian company to build and operate a
+public cloud built with OpenStack. Our mission is to disrupt how IT
+infrastructure is consumed, making it simpler to understand and manage so that
+your team is more productive. We do that by increasing visibility, insight, and
+the manageability of it.
+
+* [**The Crypto Noob Club**](https://cryptonoob.club) - The Crypto Noob Club is
+an online community of blockchain and cryptocurrency enthusiasts that was
+created to share information and ease the complexity associated with trading,
+mining, and vetting crypto projects. We believe in the long term mainstream
+adoption of blockchain technologies and we are trying to do our part in
+educating the next wave of blockchain asset investors and making investing
+accessible.
