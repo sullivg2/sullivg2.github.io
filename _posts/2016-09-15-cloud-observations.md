@@ -109,8 +109,8 @@ own tailored code management and deployment assembly line (Red Hat’s analogy,
 not mine) for the cloud.
 
 With PaaS, Devs understand how your apps interact with PaaS APIs, and Ops
-understands how PaaS interacts with IaaS APIs. The Devs don’tcare which cloud
+understands how PaaS interacts with IaaS APIs. The Devs don’t care which cloud
 provider you are running on, because ideally they don’t interact with the
-provider’s APIs directly, so embracing “hybrid mode” is afunction of
-understanding how the PaaS layer interacts with the the differentIaaS utility
+provider’s APIs directly, so embracing “hybrid mode” is a function of
+understanding how the PaaS layer interacts with the the different IaaS utility
 options.
