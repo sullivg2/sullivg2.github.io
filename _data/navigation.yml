@@ -5,7 +5,7 @@ main:
   - title: "About Geoff"
     url: https://sullivg2.github.io/about
   - title: "Advisory"
-    url: /advisory/
+    url: /advisory
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
