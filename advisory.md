@@ -11,7 +11,8 @@ describe myself as a cloud infrastructure specialist with a deep understanding
 of the technology landscape. My specialty is building and marketing highly
 technical infrastructure products or services.
 
-If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net).
+**If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
+{: .notice--info}
 
 Here is a list of companies who I actively advise for:
 
