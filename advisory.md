@@ -14,13 +14,20 @@ technical infrastructure products, solutions and services.
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice--info}
 
-Here is a list of companies who I actively advise for:
+Here is a list of organizations who I actively advise for or am involved with in
+some capacity:
 
 * [**Ammeris**](https://www.ammeris.com/) - Born from a Canadian, clean-energy,
 and decentralized mindset, Ammeris has been founded by a group of entrepreneurs,
 technologists, and financiers that are passionate about sustainable solutions to
 interoperability and trust issues, determined to illuminate a path forward using
 blockchain and wider decentralized technologies.
+
+* [**Tungsten Fabric**](https://tungsten.io/) -
+I am the Toronto ambassador for Tungsten Fabric where my responsibility is to
+help to make Tungsten Fabric local to you. I speak at local events like Meetups,
+tour some project technology, and help out locally with the community.
+Reach out to me to learn more about the Tungsten Fabric community.
 
 * [**Cloud-A**](https://www.clouda.ca/) - Cloud-A is a Canadian Infrastructure-
 as-a-service pioneer, and the first Canadian company to build and operate a
