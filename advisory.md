@@ -21,25 +21,29 @@ some capacity:
 and decentralized mindset, Ammeris has been founded by a group of entrepreneurs,
 technologists, and financiers that are passionate about sustainable solutions to
 interoperability and trust issues, determined to illuminate a path forward using
-blockchain and wider decentralized technologies.
+blockchain and wider decentralized technologies. I am currently a technology
+advisor for Ammeris where I am supporting their Green Data Centre and
+Blockchain-focused platform-as-a-service.
 
 * [**Tungsten Fabric**](https://tungsten.io/) -
-I am the Toronto ambassador for Tungsten Fabric where my responsibility is to
-help to make Tungsten Fabric local to you. I speak at local events like Meetups,
-tour some project technology, and help out locally with the community.
-Reach out to me to learn more about the Tungsten Fabric community.
+I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
+multistack SDN project, where my responsibility is to help to make Tungsten
+Fabric local to you. I speak at local events like Meetups, tour some project
+technology, and help out locally with the community. Reach out to me to learn
+more about the Tungsten Fabric community.
 
 * [**Cloud-A**](https://www.clouda.ca/) - Cloud-A is a Canadian Infrastructure-
 as-a-service pioneer, and the first Canadian company to build and operate a
 public cloud built with OpenStack. Our mission is to disrupt how IT
 infrastructure is consumed, making it simpler to understand and manage so that
 your team is more productive. We do that by increasing visibility, insight, and
-the manageability of it.
+the manageability of it. I actively advise Cloud-A on business and technology
+related matters.
 
-* [**The Crypto Noob Club**](https://cryptonoob.club) - The Crypto Noob Club is
-an online community of blockchain and cryptocurrency enthusiasts that was
-created to share information and ease the complexity associated with trading,
-mining, and vetting crypto projects. We believe in the long term mainstream
-adoption of blockchain technologies and we are trying to do our part in
-educating the next wave of blockchain asset investors and making investing
-accessible.
+* [**The Crypto Noob Club**](https://cryptonoob.club) - I am the co-founder of
+The Crypto Noob Club, a blockchain mining cooperative created for beginners. The
+club was built by blockchain and cryptocurrency enthusiasts to share information
+and ease the complexity associated with trading, mining, and vetting crypto
+projects. We believe in the long term mainstream adoption of blockchain
+technologies and we are trying to do our part in educating the next wave of
+blockchain asset investors and making investing accessible.
