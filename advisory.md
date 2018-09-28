@@ -18,13 +18,13 @@ technical infrastructure products, solutions and services.
 Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
 
-* [**Ammeris**](https://www.ammeris.com/) - Born from a Canadian, clean-energy,
-and decentralized mindset, Ammeris has been founded by a group of entrepreneurs,
-technologists, and financiers that are passionate about sustainable solutions to
-interoperability and trust issues, determined to illuminate a path forward using
-blockchain and wider decentralized technologies. I am currently a technology
-advisor for Ammeris where I am supporting their Green Data Centre and
-Blockchain-focused platform-as-a-service.
+### [Ammeris](https://www.ammeris.com/) -
+Born from a Canadian, clean-energy, and decentralized mindset, Ammeris has been
+founded by a group of entrepreneurs,technologists, and financiers that are
+passionate about sustainable solutions to interoperability and trust issues,
+determined to illuminate a path forward using blockchain and wider decentralized
+technologies. I am currently a technology advisor for Ammeris where I am
+supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
 
 * [**Tungsten Fabric**](https://tungsten.io/) -
 I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
