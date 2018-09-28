@@ -37,3 +37,13 @@ cryptocurrency mining co-operative for beginners.
 | Juniper Networks             	| Marketing           	| 2016 - Present 	|   
 | MOBIA Technology Innovations 	| Cloud Practice Lead 	| 2015 - 2016    	|   
 | Cloud-A                      	| Head of Growth      	| 2014 - 2015    	|
+| Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
+
+### Education & Training
+
+- Bachelor of Commerce @ Saint Mary's University
+- Pragmatic Marketing Certified - Level Two (PMC-II)
+- Certified ScrumMaster®
+- AWS Business Professional
+- AWS Technical Professional
+- Red Hat Sales Engineer Specialist (IaaS & Cloud Management)
