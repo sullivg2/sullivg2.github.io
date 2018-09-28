@@ -32,6 +32,8 @@ cryptocurrency mining co-operative for beginners.
 
 ## Resume
 
+### Experience
+
 | Company                      	| Role                	| Dates          	|
 |------------------------------	|---------------------	|----------------	|
 | Juniper Networks             	| Marketing           	| 2016 - Present 	|   
