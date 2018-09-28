@@ -2,6 +2,7 @@
 layout: single
 permalink: /about
 author_profile: true
+toc: true
 ---
 ## About Geoff
 
@@ -28,6 +29,8 @@ advisor to [Cloud-A](https://www.clouda.ca), a Canadian IaaS provider,
 [Ammeris](https://www.ammeris.com), a renewables powered blockchain company and
 am the co-founder of the [Crypto Noob Club](https://cryptonoob.club/), a
 cryptocurrency mining co-operative for beginners.
+
+## Resume
 
 | Company                      	| Role                	| Dates          	|
 |------------------------------	|---------------------	|----------------	|
