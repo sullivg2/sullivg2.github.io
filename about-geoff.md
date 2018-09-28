@@ -28,3 +28,9 @@ advisor to [Cloud-A](https://www.clouda.ca), a Canadian IaaS provider,
 [Ammeris](https://www.ammeris.com), a renewables powered blockchain company and
 am the co-founder of the [Crypto Noob Club](https://cryptonoob.club/), a
 cryptocurrency mining co-operative for beginners.
+
+| Company                      	| Role                	| Dates          	|
+|------------------------------	|---------------------	|----------------	|
+| Juniper Networks             	| Marketing           	| 2016 - Present 	|   
+| MOBIA Technology Innovations 	| Cloud Practice Lead 	| 2015 - 2016    	|   
+| Cloud-A                      	| Head of Growth      	| 2014 - 2015    	|

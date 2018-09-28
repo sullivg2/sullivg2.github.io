@@ -15,7 +15,7 @@ technical infrastructure products, solutions and services.
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice--info}
 
-##Companies
+## Companies
 
 Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
@@ -49,5 +49,5 @@ created for beginners. The club was built by blockchain and cryptocurrency
 enthusiasts to share information and ease the complexity associated with
 trading, mining, and vetting crypto projects. We believe in the long term
 mainstream adoption of blockchain technologies and we are trying to do our part
-in educating the next wave of blockchain asset investors and making investing 
+in educating the next wave of blockchain asset investors and making investing
 accessible.
