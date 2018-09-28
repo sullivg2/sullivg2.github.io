@@ -2,6 +2,7 @@
 layout: single
 permalink: /advisory
 author_profile: true
+toc: true
 ---
 ## Advisory
 
