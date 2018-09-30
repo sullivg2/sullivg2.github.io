@@ -13,7 +13,9 @@ of the technology landscape. My specialty is building and marketing highly
 technical infrastructure products, solutions and services to enterprises and
 service providers.
 
-{% img 'assets/images/Infrastructure.png' %}
+{% img '/assets/images/Infrastructure.png' %}
+
+{% include figure image_path="/assets/images/Infrastructure.png" %}
 
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice--info}
