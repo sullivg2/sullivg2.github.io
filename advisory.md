@@ -12,6 +12,8 @@ describe myself as a cloud infrastructure specialist with a deep understanding
 of the technology landscape. My specialty is building and marketing highly
 technical infrastructure products, solutions and services.
 
+{% img 'assets/images/Infrastructure.png' %}
+
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice--info}
 
@@ -43,7 +45,7 @@ to understand and manage so that your team is more productive. They do that by
 increasing visibility, insight, and the manageability of it. I actively advise
 Cloud-A on business and technology related matters.
 
-### [The Crypto Noob Club](https://cryptonoob.club) 
+### [The Crypto Noob Club](https://cryptonoob.club)
 I am the co-founder of The Crypto Noob Club, a blockchain mining cooperative
 created for beginners. The club was built by blockchain and cryptocurrency
 enthusiasts to share information and ease the complexity associated with
