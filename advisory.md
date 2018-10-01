@@ -32,10 +32,13 @@ determined to illuminate a path forward using blockchain and wider decentralized
 technologies. I am currently a technology advisor for Ammeris where I am
 supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
 
-> Geoff is blah blah blah. blah blah blah. blah blah blah blah blah blah blah
->blah blah blah blah blah. blah blah blah blah blah blah blah blah blah.
+> Our entire project felt a lift when Geoff began advising Ammeris, and it
+> really seemed like a lot of our vision started becoming integrated with real
+> world possibilities. Not only in bringing advanced understanding of our
+> infrastructure and connectivity needs, but presenting them to diverse audiences
+> in a way that we could build with and begin to implement.
 
-- Matthew Pickup, Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)
+Matthew Pickup, Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)
 
 ### [Tungsten Fabric](https://tungsten.io/)
 I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
