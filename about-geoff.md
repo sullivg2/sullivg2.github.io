@@ -3,10 +3,10 @@ layout: single
 permalink: /about
 author_profile: true
 toc: true
+header:
+  image: /assets/images/headshot2.jpeg
 ---
 ## About Geoff
-
-<img src="/assets/images/headshot2.jpeg" alt="">
 
 I am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My specialty is cloud infrastructure
