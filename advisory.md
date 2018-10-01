@@ -26,7 +26,7 @@ some capacity:
 
 ### [Ammeris](https://www.ammeris.com/)
 Born from a Canadian, clean-energy, and decentralized mindset, Ammeris has been
-founded by a group of entrepreneurs,technologists, and financiers that are
+founded by a group of entrepreneurs, technologists, and financiers that are
 passionate about sustainable solutions to interoperability and trust issues,
 determined to illuminate a path forward using blockchain and wider decentralized
 technologies. I am currently a technology advisor for Ammeris where I am
