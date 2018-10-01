@@ -6,17 +6,16 @@ toc: true
 ---
 ## About Geoff
 
-Translating the business value of technology since 2011, I am a technology
-marketer and advisor who is fascinated about the business of technology, and
-the technology of business. My specialty is cloud infrastructure and how it can
-be leveraged to build new business models in the platform economy. My background
-is in technology sales, marketing, business development, building cloud
-infrastructure for platforms, and channel partners as well as some ongoing
+I am a technology marketer and advisor who is fascinated about the business of
+technology, and the technology of business. My specialty is cloud infrastructure
+and how it can be leveraged to build new business models in the platform
+economy. My background is in technology sales, marketing, business development,
+partners & alliances, and solution architecture as well as some ongoing
 entrepreneurial endeavors. My diverse experience has given me a unique
-perspective on the enterprise and service provider technology ecosystem where
-now, community, “openness” and APIs are such critical components. I'm interested
-in how technology impacts business and my speciality is building and marketing highly
-technical, disruptive products and services.
+perspective on the enterprise and service provider technology ecosystem
+where now, community, “openness” and APIs are such critical components. I'm
+interested in how technology impacts business and my speciality is building and 
+marketing highly technical, disruptive products and services.
 
 I'm an advocate of open source technology, having dedicated many years to
 supporting the adoption of [OpenStack](https://www.openstack.org/) and other
