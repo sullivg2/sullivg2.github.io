@@ -50,4 +50,4 @@ cryptocurrency mining co-operative for beginners.
 - AWS Technical Professional
 - Red Hat Sales Engineer Specialist (IaaS & Cloud Management)
 
-[View as PDF]("/assets/docs/geoff-sullivan-resume.pdf"){: .btn}
+[View as PDF]("/assets/docs/geoff-sullivan-resume.pdf"){: .btn .btn--primary}   
