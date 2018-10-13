@@ -63,3 +63,13 @@ trading, mining, and vetting crypto projects. We believe in the long term
 mainstream adoption of blockchain technologies and we are trying to do our part
 in educating the next wave of blockchain asset investors and making investing
 accessible.
+
+### [Proper Standard](http://www.properstandard.video)
+Proper Standard, a full service 5K video production company focused on creating
+high end visual content for the fashion, action sports, music and corporate/
+enterprise verticals. Our company is based in Los Angeles, California and
+Halifax, Nova Scotia, Canada – giving us the ability to shoot multiple locations
+on both coasts very efficiently. We exclusively shoot with RED digital cinema
+technology to provide the highest quality 5K video content. I have been
+supporting Proper Standard by helping them with web development, marketing
+and business planning.
