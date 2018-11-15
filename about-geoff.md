@@ -45,7 +45,8 @@ cryptocurrency mining co-operative for beginners.
 - [NXTWORK 2018](https://geoffsullivan.net/cloud/NXTWORK-2018/) - I presented
 "Is Your Network Ready for the Platform Economy" at Juniper Networks Annual
 Customer Summit
-- CENGN Summit 2018 - Panelist on "Business in a Hyper-Connected World" Panel
+- [CENGN Summit 2018](https://geoffsullivan.net/networking/CENGN-Summit/) -
+Panelist on "Business in a Hyper-Connected World" Panel
 
 ### Education & Training
 
