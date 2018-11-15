@@ -41,6 +41,12 @@ cryptocurrency mining co-operative for beginners.
 | [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
 | Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
 
+### Speaking
+- [NXTWORK 2018](https://geoffsullivan.net/cloud/NXTWORK-2018/) - I presented
+"Is Your Network Ready for the Platform Economy" at Juniper Networks Annual
+Customer Summit
+- CENGN Summit 2018 - Panelist on "Business in a Hyper-Connected World" Panel
+
 ### Education & Training
 
 - Bachelor of Commerce @ Saint Mary's University
