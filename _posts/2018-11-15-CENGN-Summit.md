@@ -10,11 +10,11 @@ Technology (ICT) sector, enabling economic strength and prosperity, as well as
 innovation and competitiveness in this high-growth global multi-trillion dollar
 industry."
 header:
-  image: #"assets/images/Panel.png"
+  image: "assets/images/Panel.png"
 
 ---
 I am happy to announce that I will be participating as a panelist at the
-upcoming [CENGN Summit0(https://cengnsummit.ca/) in Ottawa on November 27th.
+upcoming [CENGN Summit](https://cengnsummit.ca/) in Ottawa on November 27th.
 [CENGN](https://www.cengn.ca/) is an amazing organization and their mission is
 to accelerate the growth of the Canadian Information and Communications
 Technology (ICT) sector, enabling economic strength and prosperity, as well as
