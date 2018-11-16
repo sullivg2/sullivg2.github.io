@@ -9,6 +9,7 @@ to accelerate the growth of the Canadian Information and Communications
 Technology (ICT) sector, enabling economic strength and prosperity, as well as
 innovation and competitiveness in this high-growth global multi-trillion dollar
 industry."
+author_profile: true
 header:
   image: #"assets/images/Panel.png"
 
