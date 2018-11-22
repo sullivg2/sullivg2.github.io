@@ -83,7 +83,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/avatar-256.png
+og_image                 : /assets/images/headshot_horizontal_bw.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
