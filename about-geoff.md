@@ -41,6 +41,18 @@ cryptocurrency mining co-operative for beginners.
 | [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
 | Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
 
+### Skills
+- Business development
+- Marketing
+- Partnerships
+- Systems Engineering
+
+### Domain Expertise
+- Cloud Infrastructure
+- Software Defined networking
+- DevOps
+- Telecommunications
+
 ### Speaking
 - [NXTWORK 2018](https://geoffsullivan.net/cloud/NXTWORK-2018/) - I presented
 "Is Your Network Ready for the Platform Economy" at Juniper Networks Annual
