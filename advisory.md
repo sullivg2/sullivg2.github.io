@@ -13,6 +13,10 @@ of the technology landscape. My specialty is building and marketing highly
 technical infrastructure products, solutions and services to enterprises and
 service providers.
 
+## Services
+- Technology Product or Service Go-to-Market Advisory
+- Enterprise & Service Provider Technology Advisory
+
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice--info}
 
