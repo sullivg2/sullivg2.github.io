@@ -2,7 +2,7 @@
 title:  "Blockchain's Energy Problem and the Need for Renewable Processing
           Power"
 categories:
- - Mining
+ - Cryptocurrency Mining
 author: Geoff Sullivan
 excerpt: "Energy consumption is one of the biggest critiques of cryptocurrency and
 blockchain asset mining worldwide. According to the Bitcoin Energy Consumption

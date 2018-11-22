@@ -2,6 +2,7 @@
 title:  "What Startups Need to Know About Cloud Computing"
 categories:
  - Cloud
+ - Startups
 author: Geoff Sullivan
 excerpt: "Cloud Computing is just one of the services that have provided the
 technical foundation for today’s fastest growing startups like Uber and AirBnB,

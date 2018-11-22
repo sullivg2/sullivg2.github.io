@@ -2,6 +2,8 @@
 title:  "Business in a Hyper-Connected World - CENGN Summit Panel"
 categories:
  - Networking
+ - Telecommunications
+ - Business
 author: Geoff Sullivan
 excerpt: "I am happy to announce that I will be participating as a panelist at
 the upcoming CENGN Summit is an amazing organization and their mission is
