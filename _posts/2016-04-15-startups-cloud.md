@@ -13,6 +13,7 @@ sets that allow companies to gain a true competitive advantage in their market."
 header:
   image: #"posts/coalmine.gif"
 author_profile: true
+classes: wide
 
 ---
 
