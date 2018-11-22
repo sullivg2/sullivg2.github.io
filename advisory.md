@@ -39,7 +39,7 @@ supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
 > infrastructure and connectivity needs, but presenting them to diverse audiences
 > in a way that we could build with and begin to implement.*
 
-*Matthew Pickup, Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)*
+*[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)*
 
 ### [Tungsten Fabric](https://tungsten.io/)
 I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
