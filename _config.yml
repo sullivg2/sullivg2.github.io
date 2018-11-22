@@ -16,12 +16,11 @@ minimal_mistakes_skin    : "contrast" #"dark" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geoff Sullivan | The business of technology and the
-                            technology of business"
+title                    : "Geoff Sullivan"
 title_separator          : " | "
 name                     : "Geoff Sullivan"
-description              : "The business of technology and the technology of
-                           business"
+description              : "The Business of Technology and the Technology of
+                           Business"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -256,7 +255,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /categories-archive/
 tag_archive:
   type: liquid
   path: /tags/
