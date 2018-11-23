@@ -3,7 +3,6 @@ layout: single
 permalink: /clouds
 author_profile: false
 toc: false
-classes: wide
 
 ---
 <html>
