@@ -35,8 +35,7 @@ supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
 really seemed like a lot of our vision started becoming integrated with real
 world possibilities. Not only in bringing advanced understanding of our
 infrastructure and connectivity needs, but presenting them to diverse audiences
-in a way that we could build with and begin to implement."*
-- [Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)
+in a way that we could build with and begin to implement."* -[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)
 {: .notice}
 
 ### [Cloud-A](https://www.clouda.ca/)  
