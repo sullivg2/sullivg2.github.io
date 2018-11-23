@@ -5,7 +5,6 @@ author_profile: false
 toc: false
 
 ---
-<!DOCTYPE html>
 <html>
   <head>
     <style>
