@@ -30,6 +30,7 @@ passionate about sustainable solutions to interoperability and trust issues,
 determined to illuminate a path forward using blockchain and wider decentralized
 technologies. I am currently a technology advisor for Ammeris where I am
 supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
+{: .notice}
 
 > *Our entire project felt a lift when Geoff began advising Ammeris, and it
 > really seemed like a lot of our vision started becoming integrated with real
