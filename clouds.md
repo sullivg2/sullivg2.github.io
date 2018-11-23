@@ -41,5 +41,3 @@ function initMap() {
     </script>
   </body>
 </html>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1Q26_FRfgD8r4NR2XDJ_mPii-I6o" width="640" height="480"></iframe>
