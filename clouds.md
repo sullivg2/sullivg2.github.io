@@ -16,7 +16,7 @@ toc: false
     </style>
   </head>
   <body>
-    <h3>My Google Maps Demo</h3>
+    <h3>Clouds of the World</h3>
     <!--The div element for the map -->
     <div id="map"></div>
     <script>
