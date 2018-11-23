@@ -37,7 +37,8 @@ supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
 > infrastructure and connectivity needs, but presenting them to diverse audiences
 > in a way that we could build with and begin to implement.*
 
-*[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)* {: .notice}
+*[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)*
+{: .notice}
 
 ### [Cloud-A](https://www.clouda.ca/)  
 Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
