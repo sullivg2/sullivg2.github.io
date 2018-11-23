@@ -39,13 +39,6 @@ supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
 
 *[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)* {: .notice}
 
-### [Tungsten Fabric](https://tungsten.io/)
-I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
-multistack SDN project, where my responsibility is to help to make Tungsten
-Fabric local to you. I speak at local events like Meetups, tour some project
-technology, and help out locally with the community. Reach out to me to learn
-more about the Tungsten Fabric community.
-
 ### [Cloud-A](https://www.clouda.ca/)  
 Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
@@ -54,21 +47,9 @@ to understand and manage so that your team is more productive. They do that by
 increasing visibility, insight, and the manageability of it. I actively advise
 Cloud-A on business and technology related matters.
 
-### [The Crypto Noob Club](https://cryptonoob.club)
-I am the co-founder of The Crypto Noob Club, a blockchain mining cooperative
-created for beginners. The club was built by blockchain and cryptocurrency
-enthusiasts to share information and ease the complexity associated with
-trading, mining, and vetting crypto projects. We believe in the long term
-mainstream adoption of blockchain technologies and we are trying to do our part
-in educating the next wave of blockchain asset investors and making investing
-accessible.
-
-### [Proper Standard](http://www.properstandard.video)
-Proper Standard, a full service 5K video production company focused on creating
-high end visual content for the fashion, action sports, music and corporate/
-enterprise verticals. Our company is based in Los Angeles, California and
-Halifax, Nova Scotia, Canada – giving us the ability to shoot multiple locations
-on both coasts very efficiently. We exclusively shoot with RED digital cinema
-technology to provide the highest quality 5K video content. I have been
-supporting Proper Standard by helping them with web development, marketing
-and business planning.
+### [Tungsten Fabric](https://tungsten.io/)
+I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
+multistack SDN project, where my responsibility is to help to make Tungsten
+Fabric local to you. I speak at local events like Meetups, tour some project
+technology, and help out locally with the community. Reach out to me to learn
+more about the Tungsten Fabric community.
