@@ -3,6 +3,8 @@ layout: single
 permalink: /about
 author_profile: true
 toc: true
+header:
+  image: "posts/coalmine.gif"
 
 ---
 ## About Geoff
