@@ -7,9 +7,7 @@ header:
   overlay_image: assets/images/fishing.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: #"More Info"
-      url: "#"
+  
 ---
 I am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My specialty is cloud infrastructure
