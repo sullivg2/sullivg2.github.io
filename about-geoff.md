@@ -11,8 +11,6 @@ header:
     - label: "More Info"
       url: "https://unsplash.com"
 ---
-## About Geoff
-
 I am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My specialty is cloud infrastructure
 and how it can be leveraged to build new business models in the platform
