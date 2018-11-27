@@ -4,7 +4,7 @@ permalink: /about
 author_profile: true
 toc: true
 header:
-  image: "posts/coalmine.gif"
+  image: "posts/headshot_horizontal_bw.png"
 
 ---
 ## About Geoff
