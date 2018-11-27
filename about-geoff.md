@@ -3,8 +3,6 @@ layout: single
 permalink: /about
 author_profile: true
 toc: true
-header:
-  image: "assets/images/headshot_horizontal_bw.png"
 
 ---
 ## About Geoff
