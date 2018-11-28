@@ -45,3 +45,5 @@ appear.
 On the panel with me are representatives from some great Canadian ICT companies
 like [CloudOps](https://www.cloudsop.com), [Martello](https://martellotech.com/)
 , and [Bell Canada](https://www.bell.ca)
+
+![CENGN Summit](/assets/images/cengn-2.png "CENGN Summit")
