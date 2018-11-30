@@ -16,7 +16,7 @@ header:
   image: #"assets/images/Panel.png"
 
 ---
-![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
+![CENGN Summit](/assets/images/cengn_panel.png "CENGN Summit")
 
 I am happy to announce that I will be participating as a panelist at the
 upcoming [CENGN Summit](https://cengnsummit.ca/) in Ottawa on November 27th.
@@ -46,4 +46,4 @@ On the panel with me are representatives from some great Canadian ICT companies
 like [CloudOps](https://www.cloudsop.com), [Martello](https://martellotech.com/)
 , and [Bell Canada](https://www.bell.ca)
 
-![CENGN Summit](/assets/images/cengn-2.png "CENGN Summit")
+![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
