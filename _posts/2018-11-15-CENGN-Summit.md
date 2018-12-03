@@ -45,5 +45,8 @@ appear.
 On the panel with me are representatives from some great Canadian ICT companies
 like [CloudOps](https://www.cloudsop.com), [Martello](https://martellotech.com/)
 , and [Bell Canada](https://www.bell.ca)
+<<<<<<< HEAD
 
 ![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
+=======
+>>>>>>> parent of 0b27622... yaya
