@@ -64,9 +64,9 @@ Panelist on "Business in a Hyper-Connected World" Panel
 
 ### Education & Training
 
-- Bachelor of Commerce @ Saint Mary's University
-- Pragmatic Marketing Certified - Level Two (PMC-II)
-- Certified ScrumMaster®
+- Bachelor of Commerce @ [Saint Mary's University](https://smu.ca/academics/sobey/welcome.html)
+- [Pragmatic Marketing Certified](https://www.pragmaticmarketing.com/) - Level Two (PMC-II)
+- Certified [ScrumMaster®](https://www.scrumalliance.org/)
 - AWS Business Professional
 - AWS Technical Professional
 - Red Hat Sales Engineer Specialist (IaaS & Cloud Management)
