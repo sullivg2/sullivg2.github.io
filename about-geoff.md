@@ -44,14 +44,14 @@ cryptocurrency mining co-operative for beginners.
 | Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
 
 ### Skills
-- Business development
+- Business Development
 - Marketing
 - Partnerships
-- Systems Engineering
+- Solution Architecture
 
 ### Domain Expertise
 - Cloud Infrastructure
-- Software Defined networking
+- Software Defined Networking
 - DevOps
 - Telecommunications
 
