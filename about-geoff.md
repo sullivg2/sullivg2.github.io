@@ -4,6 +4,10 @@ permalink: /about
 author_profile: true
 toc: true
 title: "About Geoff"
+header:
+  overlay_image: assets/images/NS_BROMLEY.jpeg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+title: "About Geoff Sullivan"
 excerpt:
     "The Business of Technology & the Technology of Business"
 ---
