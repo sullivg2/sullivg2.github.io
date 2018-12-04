@@ -3,11 +3,9 @@ layout: single
 permalink: /about
 author_profile: true
 toc: true
-excerpt: Technology Go-to-Market Advisory
-header:
-  overlay_image: assets/images/grey-bar.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
+title: "About Geoff"
+excerpt:
+    "The Business of Technology & the Technology of Business"
 
 ---
 I am a technology marketer and advisor who is fascinated about the business of
