@@ -6,7 +6,9 @@ toc: true
 header:
   overlay_image: assets/images/grey-bar.png
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
+title: "Advisory"
+excerpt:
+    "Technology Go-to-Market Advisory Services"
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
