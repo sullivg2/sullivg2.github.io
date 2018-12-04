@@ -10,15 +10,10 @@ header:
 
 ---
 I am a technology marketer and advisor who is fascinated about the business of
-technology, and the technology of business. My specialty is cloud infrastructure
-and how it can be leveraged to build new business models in the platform
-economy. My background is in technology sales, marketing, business development,
-partners & alliances, and solution architecture as well as some ongoing
-entrepreneurial endeavors. My diverse experience has given me a unique
-perspective on the enterprise and service provider technology ecosystem
-where now, community, “openness” and APIs are such critical components. I'm
-interested in how technology impacts business and my speciality is building and
-marketing highly technical, disruptive products and services.
+technology, and the technology of business. My background is in technology
+sales, marketing, business development, partners & alliances, and solution
+architecture. My speciality is building and bringing highly technical,
+disruptive products and services to market.
 
 I'm an advocate of open source technology, having dedicated many years to
 supporting the adoption of [OpenStack](https://www.openstack.org/) and other
