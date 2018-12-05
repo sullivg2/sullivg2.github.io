@@ -5,8 +5,8 @@ author_profile: true
 toc: true
 title: "About Geoff"
 header:
-  overlay_image: assets/images/NS_BROMLEY.jpg
-  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
+  overlay_image: assets/images/BROMLEY-CB.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 title: "About Geoff Sullivan"
 excerpt:
     "The Business of Technology & the Technology of Business"
