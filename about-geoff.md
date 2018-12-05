@@ -7,6 +7,7 @@ title: "About Geoff"
 header:
   overlay_image: assets/images/BROMLEY-CB-2.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "About Geoff Sullivan"
 excerpt:
     "The Business of Technology & the Technology of Business"
