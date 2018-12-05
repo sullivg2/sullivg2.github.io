@@ -6,6 +6,7 @@ toc: true
 header:
   overlay_image: assets/images/IMG_8131_BROMLEY_NS.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "Advisory"
 excerpt:
     "Technology Go-to-Market Advisory"
@@ -18,7 +19,7 @@ technical infrastructure products, solutions and services to enterprises and
 service providers.
 
 ## Services
-- Technology Product or Service Go-to-Market Advisory
+- Technology Product & Service Go-to-Market Advisory
 - Enterprise & Service Provider Technology Advisory
 
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
