@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 title: "About Geoff"
 header:
-  overlay_image: assets/images/BROMLEY-CB.jpg
+  overlay_image: assets/images/BROM-CB.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "About Geoff Sullivan"
@@ -55,7 +55,7 @@ cryptocurrency mining co-operative for beginners.
 
 ### Speaking
 - [RISQ Conference 2018](https://geoffsullivan.net/networking/iot/security/RISQ/) -
-I presented "What Can Nature Tell us About IoT Security at Scale" 
+I presented "What Can Nature Tell us About IoT Security at Scale"
 - [CENGN Summit 2018](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/) -
 Panelist on "Business in a Hyper-Connected World" Panel
 - [NXTWORK 2018](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) - I presented
