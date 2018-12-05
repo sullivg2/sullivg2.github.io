@@ -20,7 +20,7 @@ service providers.
 
 ## Services
 - Technology Product & Service Go-to-Market Advisory
-- Enterprise & Service Provider Technology Advisory
+- Cloud Infrastructure Advisory
 
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice}
