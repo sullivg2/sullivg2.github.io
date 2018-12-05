@@ -4,11 +4,11 @@ permalink: /advisory
 author_profile: true
 toc: true
 header:
-  overlay_image: assets/images/grey-bar.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  overlay_image: assets/images/IMG_8131_BROMLEY_NS.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 title: "Advisory"
 excerpt:
-    "Technology Go-to-Market Advisory Services"
+    "Technology Go-to-Market Advisory"
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
