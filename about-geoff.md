@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 title: "About Geoff"
 header:
-  overlay_image: assets/images/BROMLEY-CB.png
+  overlay_image: assets/images/BROMLEY-CB-2.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 title: "About Geoff Sullivan"
 excerpt:
