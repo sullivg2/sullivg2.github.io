@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 header:
   overlay_image: assets/images/IMG_8131_BROMLEY_NS.jpg
-  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 title: "Advisory"
 excerpt:
     "Technology Go-to-Market Advisory"
