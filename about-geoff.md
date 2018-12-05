@@ -54,11 +54,14 @@ cryptocurrency mining co-operative for beginners.
 - Telecommunications
 
 ### Speaking
-- [NXTWORK 2018](https://geoffsullivan.net/cloud/NXTWORK-2018/) - I presented
+- [RISQ Conference 2018](https://geoffsullivan.net/networking/iot/security/RISQ/) -
+Panelist on "Business in a Hyper-Connected World" Panel
+- [CENGN Summit 2018](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/) -
+Panelist on "Business in a Hyper-Connected World" Panel
+- [NXTWORK 2018](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) - I presented
 "Is Your Network Ready for the Platform Economy" at Juniper Networks Annual
 Customer Summit
-- [CENGN Summit 2018](https://geoffsullivan.net/networking/CENGN-Summit/) -
-Panelist on "Business in a Hyper-Connected World" Panel
+
 
 ### Education & Training
 
