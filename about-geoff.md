@@ -55,7 +55,7 @@ cryptocurrency mining co-operative for beginners.
 
 ### Speaking
 - [RISQ Conference 2018](https://geoffsullivan.net/networking/iot/security/RISQ/) -
-Panelist on "Business in a Hyper-Connected World" Panel
+I presented "What Can Nature Tell us About IoT Security at Scale" 
 - [CENGN Summit 2018](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/) -
 Panelist on "Business in a Hyper-Connected World" Panel
 - [NXTWORK 2018](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) - I presented
