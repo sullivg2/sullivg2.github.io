@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about
-author_profile: true
+author_profile: false
 toc: true
 title: "About Geoff"
 header:
