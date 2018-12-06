@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 title: "About Geoff"
 header:
-  overlay_image: assets/images/geoff-cengn-filter.png
+  overlay_image: assets/images/geoff-cengn-low.png
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "About Geoff Sullivan"
