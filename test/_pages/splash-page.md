@@ -16,9 +16,9 @@ intro:
   - excerpt: 'I am a technology marketer and advisor who is fascinated about the business of technology, and the technology of business. My background is in technology sales, marketing, business development, partners & alliances, and solution architecture. My speciality is building and bringing highly technical, disruptive products and services to market. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/geoff.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    image_caption: ""
+    alt: "geoff sullivan"
+    title: "About Geoff"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
