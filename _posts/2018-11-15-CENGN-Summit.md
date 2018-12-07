@@ -29,6 +29,8 @@ gallery:
       title: ""
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MX0oQNoJ8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
 
 I am happy to announce that I will be participating as a panelist at the
