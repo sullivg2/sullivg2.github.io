@@ -14,24 +14,8 @@ industry."
 author_profile: true
 header:
   image: #"assets/images/Panel.png"
-gallery:
-    - url: /assets/images/cengn_panel_1.jpg
-      image_path: /assets/images/cengn_panel_1.jpg
-      alt: "CENGN Panel 1"
-      title:
-    - url: /assets/images/cengn_panel_2.jpg
-      image_path: /assets/images/cengn_panel_2.jpg
-      alt: "CENGN Panel 2"
-      title: ""
-    - url: /assets/images/cengn_panel_3.png
-      image_path: /assets/images/cengn_panel_3.png
-      alt: "CENGN Panel 2"
-      title: ""
-
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8MX0oQNoJ8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
 
 I am happy to announce that I will be participating as a panelist at the
 upcoming [CENGN Summit](https://cengnsummit.ca/) in Ottawa on November 27th.
@@ -57,11 +41,11 @@ and policy-makers can position themselves to take advantage of the opportunities
 that are present in ICT, as well as avoid being left stagnant as new challenges
 appear.
 
+![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
+
 On the panel with me are representatives from some great Canadian ICT companies
 like [CloudOps](https://www.cloudsop.com), [Martello](https://martellotech.com/)
 , and [Bell Canada](https://www.bell.ca)
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 =======
