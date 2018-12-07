@@ -16,7 +16,7 @@ header:
   image: #"assets/images/Panel.png"
 
 ---
-![CENGN Summit](/assets/images/cengn_panel.png "CENGN Summit")
+![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
 
 I am happy to announce that I will be participating as a panelist at the
 upcoming [CENGN Summit](https://cengnsummit.ca/) in Ottawa on November 27th.
@@ -45,8 +45,19 @@ appear.
 On the panel with me are representatives from some great Canadian ICT companies
 like [CloudOps](https://www.cloudsop.com), [Martello](https://martellotech.com/)
 , and [Bell Canada](https://www.bell.ca)
-<<<<<<< HEAD
 
-![CENGN Summit](/assets/images/Panel.png "CENGN Summit")
+gallery:
+  - url: /assets/images/cengn_panel_1.jpg
+    image_path: /assets/images/cengn_panel_1.jpg
+    alt: "CENGN Panel 1"
+    title:
+  - url: /assets/images/cengn_panel_2.jpg
+    image_path: /assets/images/cengn_panel_2.jpg
+    alt: "CENGN Panel 2"
+    title:
+  - url: /assets/images/cengn_panel_3.png
+    image_path: /assets/images/cengn_panel_3.png
+    alt: "CENGN Panel 3"
+    title: 
+
 =======
->>>>>>> parent of 0b27622... yaya
