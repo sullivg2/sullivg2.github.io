@@ -4,6 +4,7 @@ permalink: /about
 author_profile: true
 toc: true
 title: "About Geoff"
+classes: wide
 header:
   overlay_image: assets/images/risq_2018.png
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
