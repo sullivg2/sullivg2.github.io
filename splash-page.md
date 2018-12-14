@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.6"
   overlay_image: assets/images/risq2.jpg
   actions:
-    - label: "Learn More"
-      url: "/terms/"
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The Business of Technology & The Technology of Business"
 feature_row:
