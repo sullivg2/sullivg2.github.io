@@ -18,14 +18,14 @@ feature_row:
     url: "https://geoffsullivan.net/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: #/assets/images/BROMLEY-LTOWN.png
+  - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
     title: "Advisory"
     excerpt: "Technoloy & go-to-market advisory services."
     url: "https://geoffsullivan.net/advisory"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: #/assets/images/BROM-CB.jpg
+  - image_path: /assets/images/BROM-CB.jpg
     title: "Blog"
     excerpt: "Writings about the business of technology and the technology of business"
     url: "https://geoffsullivan.net/"
