@@ -12,7 +12,7 @@ header:
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The Business of Technology & The Technology of Business"
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'I am a technology marketer and advisor who is fascinated about the business of technology, and the technology of business. My background is in technology sales, marketing, business development, partners & alliances, and solution architecture. My speciality is building and bringing highly technical, disruptive products and services to market.`type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
