@@ -4,9 +4,9 @@ permalink: /advisory
 author_profile: true
 toc: true
 header:
-  overlay_image: assets/images/BROMLEY-LTOWN.png
+  overlay_image: assets/images/risq2.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Mike Bromley**](http://properstandard.video)"
+  caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "Advisory"
 excerpt:
     "Technology Go-to-Market Advisory"
