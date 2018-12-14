@@ -4,7 +4,7 @@ layout: splash
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_filter: "0.5"
+  overlay_filter: "0.75"
   overlay_image: assets/images/risq2.jpg
   actions:
     - label: "Learn More"
