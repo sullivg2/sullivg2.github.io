@@ -35,6 +35,4 @@ feature_row:
 
 {% include feature_row %}
 
-{%- for post in site.tags[include.taxonomy] -%}
-  {% include archive-single.html %}
-{%- endfor -%}
+{% include posts-tag.html %}
