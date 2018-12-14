@@ -15,20 +15,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "About Geoff"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://geoffsullivan.net/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: #/assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
     title: "Advisory"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://geoffsullivan.net/advisory"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: #/assets/images/BROM-CB.jpg
     title: "Blog"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://geoffsullivan.net/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
