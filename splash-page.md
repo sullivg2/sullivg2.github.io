@@ -31,6 +31,7 @@ feature_row:
     url: "https://geoffsullivan.net/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    toc: true
 ---
 
 {% include feature_row %}
