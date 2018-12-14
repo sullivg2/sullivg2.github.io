@@ -1,6 +1,6 @@
 ---
 title: "Geoff Sullivan"
-layout: splash
+layout: home
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -35,4 +35,4 @@ feature_row:
 
 {% include feature_row %}
 
-{% include posts-tag.html %}
+{% include posts.html %}
