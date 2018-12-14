@@ -2,7 +2,7 @@
 title: "Geoff Sullivan"
 layout: home
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+author_profile: true
 header:
   overlay_filter: "0.6"
   overlay_image: assets/images/risq2.jpg
@@ -31,7 +31,6 @@ feature_row:
     url: "https://geoffsullivan.net/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    toc: true
 ---
 
 {% include feature_row %}
