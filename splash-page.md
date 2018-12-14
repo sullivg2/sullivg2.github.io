@@ -31,9 +31,11 @@ feature_row:
 
 {% include feature_row %}
 
+{% include posts.html %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.header.image %}
       <div class="archive__item-teaser">
         {% img '{{ post.header.image }}' %}
-      </div> 
+      </div>
