@@ -15,6 +15,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "About Geoff"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/BROMLEY-LTOWN.png
@@ -27,6 +28,9 @@ feature_row:
   - image_path: /assets/images/BROM-CB.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
