@@ -10,7 +10,7 @@ header:
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The Business of Technology & The Technology of Business"
 feature_row:
-  - image_path: assets/images/geoff-cengn.png
+  - image_path: assets/images/BROM-CB.jpg
     image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "About Geoff"
