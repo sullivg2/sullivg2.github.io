@@ -5,7 +5,7 @@ permalink: /splash-page/
 author_profile: true
 classes: wide
 header:
-  overlay_filter: "0.6"
+  overlay_filter: "0.4"
   overlay_image: assets/images/website-banner.png
   actions:
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
