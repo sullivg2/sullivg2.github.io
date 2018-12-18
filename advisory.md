@@ -2,7 +2,7 @@
 layout: single
 permalink: /advisory
 author_profile: true
-toc: true
+toc: false
 header:
   overlay_image: assets/images/risq2.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -40,7 +40,6 @@ Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
 
 ![Meridian](/assets/images/meridiandlt.png "Meridian")
-### [Meridian DLT](https://meridiandlt.com/)
 Meridian DLT is building an innovative green network leveraging Distributed
 Ledger Technology.Powered by renewable energy nodes, the eco-system supports
 many real-world DLT use cases covering green technology, carbon trading,
@@ -55,7 +54,7 @@ infrastructure and connectivity needs, but presenting them to diverse audiences
 in a way that we could build with and begin to implement."* -[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
 {: .notice}
 
-### [Cloud-A](https://www.clouda.ca/)  
+![Cloud-A](/assets/images/cloudalogo.jpg "cloud-a") 
 Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
 mission is to disrupt how IT infrastructure is consumed, making it simpler
