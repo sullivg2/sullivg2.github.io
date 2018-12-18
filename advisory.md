@@ -40,6 +40,7 @@ Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
 
 ![Meridian](/assets/images/meridiandlt.png "Meridian")
+
 Meridian DLT is building an innovative green network leveraging Distributed
 Ledger Technology.Powered by renewable energy nodes, the eco-system supports
 many real-world DLT use cases covering green technology, carbon trading,
@@ -55,6 +56,7 @@ in a way that we could build with and begin to implement."* -[Matthew Pickup](ht
 {: .notice}
 
 ![Cloud-A](/assets/images/cloudalogo.jpg "cloud-a")
+
 Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
 mission is to disrupt how IT infrastructure is consumed, making it simpler
