@@ -48,6 +48,12 @@ payments, loyalty programs, entertainment and more. I am currently a technology
 advisor for Meridian DLT where I am supporting their Green Data Centre and
 Blockchain-focused platform-as-a-service.
 
+> Our entire project felt a lift when Geoff began advising Meridian DLT, and it
+really seemed like a lot of our vision started becoming integrated with real
+world possibilities. Not only in bringing advanced understanding of our
+infrastructure and connectivity needs, but presenting them to diverse audiences
+in a way that we could build with and begin to implement."
+
 *"Our entire project felt a lift when Geoff began advising Meridian DLT, and it
 really seemed like a lot of our vision started becoming integrated with real
 world possibilities. Not only in bringing advanced understanding of our
