@@ -39,19 +39,19 @@ service providers.
 Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
 
-### [Ammeris](https://www.ammeris.com/)
-Born from a Canadian, clean-energy, and decentralized mindset, Ammeris has been
-founded by a group of entrepreneurs, technologists, and financiers that are
-passionate about sustainable solutions to interoperability and trust issues,
-determined to illuminate a path forward using blockchain and wider decentralized
-technologies. I am currently a technology advisor for Ammeris where I am
-supporting their Green Data Centre and Blockchain-focused platform-as-a-service.
+### [Meridian DLT](https://meridiandlt.com/)
+Meridian DLT is building an innovative green network leveraging Distributed
+Ledger Technology.Powered by renewable energy nodes, the eco-system supports
+many real-world DLT use cases covering green technology, carbon trading,
+payments, loyalty programs, entertainment and more. I am currently a technology
+advisor for Meridian DLT where I am supporting their Green Data Centre and
+Blockchain-focused platform-as-a-service.
 
-*"Our entire project felt a lift when Geoff began advising Ammeris, and it
+*"Our entire project felt a lift when Geoff began advising Meridian DLT, and it
 really seemed like a lot of our vision started becoming integrated with real
 world possibilities. Not only in bringing advanced understanding of our
 infrastructure and connectivity needs, but presenting them to diverse audiences
-in a way that we could build with and begin to implement."* -[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Ammeris](https://www.ammeris.com/)
+in a way that we could build with and begin to implement."* -[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
 {: .notice}
 
 ### [Cloud-A](https://www.clouda.ca/)  
