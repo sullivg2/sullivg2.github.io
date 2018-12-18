@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 header:
   overlay_filter: "0.4"
-  overlay_image: assets/images/website-banner-1.png
+  overlay_image: assets/images/newbanner.png
   actions:
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The Business of Technology & The Technology of Business"
