@@ -69,3 +69,6 @@ multistack SDN project, where my responsibility is to help to make Tungsten
 Fabric local to you. I speak at local events like Meetups, tour some project
 technology, and help out locally with the community. Reach out to me to learn
 more about the Tungsten Fabric community.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/randybias?ref_src=twsrc%5Etfw">@randybias</a> providing a <a href="https://twitter.com/TungstenFabric?ref_src=twsrc%5Etfw">@TungstenFabric</a> community update. Lots of new users since the community reboot (like <a href="https://twitter.com/CERN?ref_src=twsrc%5Etfw">@CERN</a> !!) <a href="https://twitter.com/hashtag/SDN?src=hash&amp;ref_src=twsrc%5Etfw">#SDN</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://t.co/3ebl0F3C8y">pic.twitter.com/3ebl0F3C8y</a></p>&mdash; Geoff Sullivan (@sullivg2) <a href="https://twitter.com/sullivg2/status/1072193348604178432?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
