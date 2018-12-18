@@ -15,7 +15,7 @@ feature_row:
     image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "Product & Service Go-to-Market"
-    excerpt: "Bio, work experience, & expertise"
+    excerpt: "Buyer persona development, product positioning, sales enablement, marketing strategy, sales alignment & channels "
   - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
     title: "Cloud Infrastructure"
