@@ -18,8 +18,8 @@ feature_row:
     excerpt: "Buyer persona development, product positioning, sales enablement, marketing strategy, sales alignment & channels "
   - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
-    title: "Cloud Infrastructure"
-    excerpt: "Technoloy & go-to-market advisory services."
+    title: "Cloud Infrastructure Advisory"
+    excerpt: "Vendor landscape analysis, MVP cloud architecture design, open source software strategy"
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
