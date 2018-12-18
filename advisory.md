@@ -48,18 +48,11 @@ payments, loyalty programs, entertainment and more. I am currently a technology
 advisor for Meridian DLT where I am supporting their Green Data Centre and
 Blockchain-focused platform-as-a-service.
 
-> Our entire project felt a lift when Geoff began advising Meridian DLT, and it
+> "Our entire project felt a lift when Geoff began advising Meridian DLT, and it
 really seemed like a lot of our vision started becoming integrated with real
 world possibilities. Not only in bringing advanced understanding of our
 infrastructure and connectivity needs, but presenting them to diverse audiences
-in a way that we could build with and begin to implement."
-
-*"Our entire project felt a lift when Geoff began advising Meridian DLT, and it
-really seemed like a lot of our vision started becoming integrated with real
-world possibilities. Not only in bringing advanced understanding of our
-infrastructure and connectivity needs, but presenting them to diverse audiences
-in a way that we could build with and begin to implement."* -[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
-{: .notice}
+in a way that we could build with and begin to implement." - [Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
 
 ![Cloud-A](/assets/images/cloudalogo.jpg "cloud-a")
 
