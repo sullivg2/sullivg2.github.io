@@ -41,7 +41,7 @@ some capacity:
 
 ![Meridian](/assets/images/meridiandlt.png "Meridian")
 
-Meridian DLT is building an innovative green network leveraging Distributed
+[Meridian DLT](https://meridiandlt.com/) is building an innovative green network leveraging Distributed
 Ledger Technology.Powered by renewable energy nodes, the eco-system supports
 many real-world DLT use cases covering green technology, carbon trading,
 payments, loyalty programs, entertainment and more. I am currently a technology
@@ -56,7 +56,7 @@ in a way that we could build with and begin to implement." - [Matthew Pickup](ht
 
 ![Cloud-A](/assets/images/cloudalogo.jpg "cloud-a")
 
-Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
+[Cloud-A](https://www.clouda.ca) is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
 mission is to disrupt how IT infrastructure is consumed, making it simpler
 to understand and manage so that your team is more productive. They do that by
@@ -65,11 +65,11 @@ Cloud-A on business and technology related matters.
 
 ![Tungsten Fabric](/assets/images/TungstenFabric.png "Tungsten Fabric")
 
-I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
-multistack SDN project, where my responsibility is to help to make Tungsten
-Fabric local to you. I speak at local events like Meetups, tour some project
-technology, and help out locally with the community. Reach out to me to learn
-more about the Tungsten Fabric community.
+I am the Toronto ambassador for [Tungsten Fabric](https://tungsten.io), an open source multicloud,
+multistack SDN project hosted by the Linux Foundation, where my responsibility
+is to help to make Tungsten Fabric local to you. I speak at local events like
+Meetups, tour some project technology, and help out locally with the community.
+Reach out to me to learn more about the Tungsten Fabric community.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/randybias?ref_src=twsrc%5Etfw">@randybias</a> providing a <a href="https://twitter.com/TungstenFabric?ref_src=twsrc%5Etfw">@TungstenFabric</a> community update. Lots of new users since the community reboot (like <a href="https://twitter.com/CERN?ref_src=twsrc%5Etfw">@CERN</a> !!) <a href="https://twitter.com/hashtag/SDN?src=hash&amp;ref_src=twsrc%5Etfw">#SDN</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://t.co/3ebl0F3C8y">pic.twitter.com/3ebl0F3C8y</a></p>&mdash; Geoff Sullivan (@sullivg2) <a href="https://twitter.com/sullivg2/status/1072193348604178432?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
