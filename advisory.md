@@ -64,6 +64,7 @@ increasing visibility, insight, and the manageability of it. I actively advise
 Cloud-A on business and technology related matters.
 
 ![Tungsten Fabric](/assets/images/TungstenFabric.png "Tungsten Fabric")
+
 I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
 multistack SDN project, where my responsibility is to help to make Tungsten
 Fabric local to you. I speak at local events like Meetups, tour some project
