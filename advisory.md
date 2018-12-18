@@ -39,6 +39,7 @@ service providers.
 Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
 
+![Meridian](/assets/images/meridiandlt.png "Meridian")
 ### [Meridian DLT](https://meridiandlt.com/)
 Meridian DLT is building an innovative green network leveraging Distributed
 Ledger Technology.Powered by renewable energy nodes, the eco-system supports
