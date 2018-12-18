@@ -10,6 +10,16 @@ header:
 title: "Advisory"
 excerpt:
     "Technology Go-to-Market Advisory"
+feature_row:
+  - image_path: assets/images/BROM-CB.jpg
+    image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 1"
+    title: "Product & Service Go-to-Market"
+    excerpt: "Bio, work experience, & expertise"
+  - image_path: /assets/images/BROMLEY-LTOWN.png
+    alt: "placeholder image 2"
+    title: "Cloud Infrastructure"
+    excerpt: "Technoloy & go-to-market advisory services."
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
@@ -19,8 +29,7 @@ technical infrastructure products, solutions and services to enterprises and
 service providers.
 
 ## Services
-- Technology Product & Service Go-to-Market Advisory
-- Cloud Infrastructure Advisory
+{% include feature_row %}
 
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
 {: .notice}
