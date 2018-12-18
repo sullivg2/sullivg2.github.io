@@ -54,7 +54,7 @@ infrastructure and connectivity needs, but presenting them to diverse audiences
 in a way that we could build with and begin to implement."* -[Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
 {: .notice}
 
-![Cloud-A](/assets/images/cloudalogo.jpg "cloud-a") 
+![Cloud-A](/assets/images/cloudalogo.jpg "cloud-a")
 Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
 mission is to disrupt how IT infrastructure is consumed, making it simpler
@@ -62,7 +62,7 @@ to understand and manage so that your team is more productive. They do that by
 increasing visibility, insight, and the manageability of it. I actively advise
 Cloud-A on business and technology related matters.
 
-### [Tungsten Fabric](https://tungsten.io/)
+![Tungsten Fabric](/assets/images/TungstenFanric.png "Tungsten Fabric")
 I am the Toronto ambassador for Tungsten Fabric, an open source multicloud,
 multistack SDN project, where my responsibility is to help to make Tungsten
 Fabric local to you. I speak at local events like Meetups, tour some project
