@@ -5,7 +5,7 @@ author_profile: true
 toc: false
 header:
   overlay_image: assets/images/banner5.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
   caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "Advisory"
 excerpt:
@@ -32,7 +32,7 @@ service providers.
 {% include feature_row %}
 
 **If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
-{: .notice}
+{: .notice--info}
 
 ## Companies
 
