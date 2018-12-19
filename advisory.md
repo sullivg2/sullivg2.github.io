@@ -63,7 +63,7 @@ to understand and manage so that your team is more productive. They do that by
 increasing visibility, insight, and the manageability of it. I actively advise
 Cloud-A on business and technology related matters.
 
-![Tungsten Fabric](/assets/images/TungstenFabric.png "Tungsten Fabric")
+![Tungsten Fabric](/assets/images/tungsten.png "Tungsten Fabric")
 
 I am the Toronto ambassador for [Tungsten Fabric](https://tungsten.io), an open source multicloud,
 multistack SDN project hosted by the Linux Foundation, where my responsibility
