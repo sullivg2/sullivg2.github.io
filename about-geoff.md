@@ -73,3 +73,5 @@ Customer Summit
 - Red Hat Sales Engineer Specialist (IaaS & Cloud Management)
 
 [View as PDF](/assets/images/geoff-sullivan-resume-2018.pdf){: .btn .btn--primary}
+
+![pragmatic](/assets/images/pragmaticmarketing.jpg "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum")
