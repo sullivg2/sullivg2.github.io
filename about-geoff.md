@@ -74,4 +74,4 @@ Customer Summit
 
 [View as PDF](/assets/images/geoff-sullivan-resume-2018.pdf){: .btn .btn--primary}
 
-![pragmatic](/assets/images/pragmaticmarketing.jpg "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum")
+![pragmatic](/assets/images/prgmaticmarketing.jpg "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum")
