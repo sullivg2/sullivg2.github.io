@@ -18,7 +18,7 @@ feature_row:
     excerpt: "Buyer persona development, product positioning, sales enablement, marketing strategy, sales alignment & channels "
   - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
-    title: "Cloud Infrastructure Advisodiligencery"
+    title: "Cloud Infrastructure Advisory"
     excerpt: "Vendor landscape analysis, MVP cloud architecture design, open source software strategy"
   - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
