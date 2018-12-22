@@ -2,6 +2,7 @@
 layout: single
 permalink: /advisory
 author_profile: true
+classes: wide
 toc: false
 header:
   overlay_image: assets/images/banner6.png

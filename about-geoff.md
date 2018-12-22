@@ -2,6 +2,7 @@
 layout: single
 permalink: /about
 author_profile: true
+classes: wide
 toc: true
 title: "About Geoff"
 header:
