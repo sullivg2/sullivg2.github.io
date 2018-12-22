@@ -4,7 +4,7 @@ permalink: /advisory
 author_profile: true
 toc: false
 header:
-  overlay_image: assets/images/banner6.png
+  overlay_image: assets/images/banner5.png
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
   caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "Advisory"
@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
     title: "Technical Due Diligence"
-    excerpt: "I work with investors and startups to understand the strengths and weaknesses of emerging technologies and associated risks.
+    excerpt: "I work with investors and startups to understand the strengths and weaknesses of emerging technologies"
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
