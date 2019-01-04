@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 permalink: /advisory
 author_profile: false
 classes: #wide
