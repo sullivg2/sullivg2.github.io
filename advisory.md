@@ -5,7 +5,7 @@ author_profile: true
 classes: #wide
 toc: false
 header:
-  overlay_image: assets/images/BROMLEY-CB.png
+  overlay_image: assets/images/NS_BROMLEY.jpg
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
   caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
 title: "Advisory"
