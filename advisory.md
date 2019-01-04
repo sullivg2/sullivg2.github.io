@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /advisory
-author_profile: true
-classes: wide
+author_profile: false
+classes: #wide
 toc: false
 header:
   overlay_image: assets/images/background.png
