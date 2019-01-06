@@ -13,8 +13,6 @@ title: "About Geoff"
 excerpt:
     "The Business of Technology & the Technology of Business"
 ---
-![Geoff](/assets/images/banner6.png "geoff")
-
 I am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My background is in technology
 sales, marketing, business development, partners & alliances, and solution
