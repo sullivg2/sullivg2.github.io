@@ -36,9 +36,6 @@ service providers.
 ## Services
 {% include feature_row %}
 
-**If you would like to discuss a project with me, please send me an [email](mailto:geoff@geoffsullivan.net)**
-{: .notice--info}
-
 ## Companies
 
 Here is a list of organizations who I actively advise for or am involved with in
