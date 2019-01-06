@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /advisory
-author_profile: false
-classes: #wide
+author_profile: true
+classes: wide
 toc: false
 header:
   overlay_image: assets/images/background.png
