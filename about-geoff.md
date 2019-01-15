@@ -34,6 +34,8 @@ information.
 | [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
 | Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
 
+
+
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
 | Business Development  | Cloud Infrastructure        |
