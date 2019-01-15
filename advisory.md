@@ -4,27 +4,6 @@ permalink: /advisory
 author_profile: true
 classes: wide
 toc: false
-header:
-  overlay_image: assets/images/background.png
-  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
-  caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
-title: "Advisory"
-excerpt:
-    "Technology Go-to-Market Advisory"
-feature_row:
-  - image_path: assets/images/BROM-CB.jpg
-    image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Product & Service Go-to-Market"
-    excerpt: "Buyer persona development, product positioning, sales enablement, marketing strategy, sales alignment & channels "
-  - image_path: /assets/images/BROMLEY-LTOWN.png
-    alt: "placeholder image 2"
-    title: "Cloud Infrastructure Advisory"
-    excerpt: "Vendor landscape analysis, MVP cloud architecture design, open source software strategy"
-  - image_path: /assets/images/BROMLEY-LTOWN.png
-    alt: "placeholder image 2"
-    title: "Technical Due Diligence"
-    excerpt: "I work with investors and startups to understand the strengths and weaknesses of emerging technologies"
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
@@ -34,7 +13,6 @@ technical infrastructure products, solutions and services to enterprises and
 service providers.
 
 ## Services
-{% include feature_row %}
 
 ## Companies
 
