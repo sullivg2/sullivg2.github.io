@@ -5,7 +5,8 @@ author_profile: true
 classes: #wide
 toc: true
 ---
-#About Geoff
+##About Geoff
+
  am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My background is in technology
 sales, marketing, business development, partners & alliances, and solution
