@@ -48,10 +48,14 @@ information.
 | **CENGN Summit 2018** - I was a panelist on the ["Business in a Hyper-Connected World" Panel](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/)                                                   |
 | **Juniper Networks - NXTWORK 2018** -I presented ["Is Your Network Ready for the Platform Economy"](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) at Juniper Networks Annual customer summit |
 
-
-- **RISQ Conference 2018** - I presented ["What Can Nature Tell us About IoT Security at Scale"](https://geoffsullivan.net/networking/iot/security/RISQ/)
-- **CENGN Summit 2018** - I was a panelist on the ["Business in a Hyper-Connected World" Panel](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/)
-- **Juniper Networks - NXTWORK 2018** -  I presented ["Is Your Network Ready for the Platform Economy"](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) at Juniper Networks Annual customer summit
+| Education & Training                                                                          |
+|-----------------------------------------------------------------------------------------------|
+| Bachelor of Commerce @ [Saint Mary's University](https://smu.ca/academics/sobey/welcome.html) |
+| [Pragmatic Marketing Certified](https://www.pragmaticmarketing.com/) - Level Two (PMC-II)     |
+| Certified [ScrumMaster®](https://www.scrumalliance.org/)                                      |
+| AWS Business Professional                                                                     |
+| AWS Technical Professional                                                                    |
+| Red Hat Sales Engineer Specialist (IaaS & Cloud Management)                                   |
 
 ### Education & Training
 
