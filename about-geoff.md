@@ -8,10 +8,10 @@ toc: true
 ## About Geoff
 
  I am a technology marketer and advisor who is fascinated about the business of
-technology, and the technology of business. My background is in technology
-sales, marketing, business development, partners & alliances, and solution
-architecture. My speciality is building and bringing highly technical,
-disruptive products and services to market.
+technology, and the technology of business. My background is in sales, marketing
+, business development, partners & alliances, and solution
+architecture, all within the ICT sector. My speciality is building and bringing
+highly technical, disruptive products and services to market.
 
 I'm an advocate of open source technology, having dedicated many years to
 supporting the adoption of [OpenStack](https://www.openstack.org/) and other
