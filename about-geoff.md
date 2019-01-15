@@ -27,15 +27,6 @@ information.
 
 ### Experience
 
-| Company                      	| Role                	| Dates          	|
-|------------------------------	|---------------------	|----------------	|
-| [Juniper Networks](https://www.juniper.net/us/en/)             	| Marketing           	| 2016 - Present 	|   
-| [MOBIA Technology Innovations](https://mobia.io/) 	| Cloud Practice Lead 	| 2015 - 2016    	|   
-| [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
-| Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
-
-
-
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
 | Business Development  | Cloud Infrastructure        |
@@ -43,24 +34,19 @@ information.
 | Partnerships          | DevOps                      |
 | Solution Architecture | Telecommunications          |
 
-### Skills
-- Business Development
-- Marketing
-- Partnerships
-- Solution Architecture
 
-### Domain Expertise
-- Cloud Infrastructure
-- Software Defined Networking
-- DevOps
-- Telecommunications
+| Company                      	| Role                	| Dates          	|
+|------------------------------	|---------------------	|----------------	|
+| [Juniper Networks](https://www.juniper.net/us/en/)             	| Marketing           	| 2016 - Present 	|   
+| [MOBIA Technology Innovations](https://mobia.io/) 	| Cloud Practice Lead 	| 2015 - 2016    	|   
+| [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
+| Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
 
 ### Speaking
 
 - **RISQ Conference 2018** - I presented ["What Can Nature Tell us About IoT Security at Scale"](https://geoffsullivan.net/networking/iot/security/RISQ/)
 - **CENGN Summit 2018** - I was a panelist on the ["Business in a Hyper-Connected World" Panel](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/)
 - **Juniper Networks - NXTWORK 2018** -  I presented ["Is Your Network Ready for the Platform Economy"](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) at Juniper Networks Annual customer summit
-
 
 ### Education & Training
 
