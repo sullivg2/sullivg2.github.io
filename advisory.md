@@ -16,9 +16,11 @@ service providers.
 
 ## Services
 
-- Technology Product/Service Go-to-market
-- Cloud Infrastructure Advisory
-- Technical Due Diligence
+- **Technology Product/Service Go-to-market** - Product and service creation, positioning, market research, marketing & sales strategy for highly technical products and services
+- **Cloud Infrastructure Advisory** -
+Market analysis, financial analysis, solution architecture, vendor selection  
+- **Technical Due Diligence** -
+Detailed technical analysis of software and infrastructure for merger & acquisition scenarios
 
 ## Companies
 
