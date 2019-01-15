@@ -3,7 +3,7 @@ layout: home
 permalink: /advisory
 author_profile: true
 classes: wide
-toc: false
+toc: true
 ---
 I like to make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
