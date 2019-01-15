@@ -19,7 +19,9 @@ open source projects. I currently a community ambassador for
 the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 
 Currently, I work for [Juniper Networks](https://www.juniper.net) where I am the
-head of marketing for Canada, the Caribbean and Latin America. I also [actively](https://geoffsullivan.net/advisory) advise for several technology companies. Check out my advisory page for more information.
+head of marketing for Canada, the Caribbean and Latin America. I also [actively](https://geoffsullivan.net/advisory)
+advise for several technology companies. Check out my advisory page for more
+information.
 
 ## Resume
 
