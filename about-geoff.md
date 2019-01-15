@@ -4,14 +4,6 @@ permalink: /about
 author_profile: true
 classes: #wide
 toc: true
-title: "About Geoff"
-#header:
-  #overlay_image: assets/images/background.png
-  #overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
-  #caption: #"Photo credit: [**Mike Bromley**](http://properstandard.video)"
-#title: "About Geoff"
-#excerpt:
-    "The Business of Technology & the Technology of Business"
 ---
 I am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My background is in technology
