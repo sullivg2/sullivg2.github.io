@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /advisory
 author_profile: true
 classes: wide
@@ -27,7 +27,7 @@ some capacity:
 
 ## [Meridian DLT](https://meridiandlt.com/)
 
-[Meridian DLT](https://meridiandlt.com/) is building an innovative green network leveraging Distributed
+Meridian DLT is building an innovative green network leveraging Distributed
 Ledger Technology.Powered by renewable energy nodes, the eco-system supports
 many real-world DLT use cases covering green technology, carbon trading,
 payments, loyalty programs, entertainment and more. I am currently a technology
@@ -40,7 +40,7 @@ world possibilities. Not only in bringing advanced understanding of our
 infrastructure and connectivity needs, but presenting them to diverse audiences
 in a way that we could build with and begin to implement." - [Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
 
-## [Cloud-A](https://www.clouda.ca) is a Canadian
+## [Cloud-A](https://www.clouda.ca)
 
 Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
