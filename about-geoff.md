@@ -7,7 +7,7 @@ toc: true
 ---
 ## About Geoff
 
- am a technology marketer and advisor who is fascinated about the business of
+ I am a technology marketer and advisor who is fascinated about the business of
 technology, and the technology of business. My background is in technology
 sales, marketing, business development, partners & alliances, and solution
 architecture. My speciality is building and bringing highly technical,
