@@ -56,3 +56,5 @@ multistack SDN project hosted by the Linux Foundation, where my responsibility
 is to help to make Tungsten Fabric local to you. I speak at local events like
 Meetups, tour some project technology, and help out locally with the community.
 Reach out to me to learn more about the Tungsten Fabric community.
+
+- [BLOG POST: "OpenContrail – Enabling Advancements in Cloud Infrastructure Adoption"](http://www.opencontrail.org/opencontrail-enabling-advancements-in-cloud-infrastructure-adoption/)
