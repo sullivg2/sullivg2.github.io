@@ -34,6 +34,13 @@ information.
 | [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
 | Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
 
+| Skills                | Domain Expertise            |
+|-----------------------|-----------------------------|
+| Business Development  | Cloud Infrastructure        |
+| Marketing             | Software Defined Networking |
+| Partnerships          | DevOps                      |
+| Solution Architecture | Telecommunications          |
+
 ### Skills
 - Business Development
 - Marketing
@@ -47,13 +54,10 @@ information.
 - Telecommunications
 
 ### Speaking
-- [RISQ Conference 2018](https://geoffsullivan.net/networking/iot/security/RISQ/) -
-I presented "What Can Nature Tell us About IoT Security at Scale"
-- [CENGN Summit 2018](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/) -
-Panelist on "Business in a Hyper-Connected World" Panel
-- [NXTWORK 2018](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) - I presented
-"Is Your Network Ready for the Platform Economy" at Juniper Networks Annual
-Customer Summit
+
+- **RISQ Conference 2018** - I presented ["What Can Nature Tell us About IoT Security at Scale"](https://geoffsullivan.net/networking/iot/security/RISQ/)
+- **CENGN Summit 2018** - I was a panelist on the ["Business in a Hyper-Connected World" Panel](https://geoffsullivan.net/networking/telecommunications/business/CENGN-Summit/)
+- **Juniper Networks - NXTWORK 2018** -  I presented ["Is Your Network Ready for the Platform Economy"](https://geoffsullivan.net/cloud/digital%20transformation/business/NXTWORK-2018/) at Juniper Networks Annual customer summit
 
 
 ### Education & Training
