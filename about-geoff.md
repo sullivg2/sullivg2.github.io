@@ -51,7 +51,7 @@ information.
 
 ### Education & Training
 
-| Education & Training                                                                          |
+| ### Education & Training                                                                          |
 |-----------------------------------------------------------------------------------------------|
 | Bachelor of Commerce @ [Saint Mary's University](https://smu.ca/academics/sobey/welcome.html) |
 | [Pragmatic Marketing Certified](https://www.pragmaticmarketing.com/) - Level Two (PMC-II)     |
