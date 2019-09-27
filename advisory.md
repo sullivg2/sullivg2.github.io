@@ -24,8 +24,7 @@ Detailed technical analysis of software and infrastructure for merger & acquisit
 
 ## Companies
 
-Here is a list of organizations who I actively advise for or am involved with in
-some capacity:
+Here is a list of companies who I have advised for. 
 
 ### [faastRuby](https://faastruby.io/)
 
