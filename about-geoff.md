@@ -7,21 +7,17 @@ toc: true
 ---
 ## About Geoff
 
- I am a technology marketer and advisor who is fascinated about the business of
-technology, and the technology of business. My background is in sales, marketing
-, business development, partners & alliances, and solution
-architecture, all within the ICT sector. My speciality is building and bringing
-highly technical, disruptive products and services to market.
+ I am a technology advisor who is fascinated about the business of
+technology, and the technology of business. My background is in business development, marketing
+, partners & alliances, and solution deisgn and architecture, all within the ICT sector. My speciality is building and bringing highly technical, disruptive products and services to market.
 
-I'm an advocate of open source technology, having dedicated many years to
+I'm an advocate for open source technology, having dedicated many years to
 supporting the adoption of [OpenStack](https://www.openstack.org/) and other
-open source projects. I currently a community ambassador for
+open source projects. I was also a community ambassador for
 the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 
-Currently, I work for [Juniper Networks](https://www.juniper.net) where I am the
-head of marketing for Canada, the Caribbean and Latin America. I also [actively](https://geoffsullivan.net/advisory)
-advise for several technology companies. Check out my advisory page for more
-information.
+Currently, I work for [MOBIA Technology Innovations](https://www.mobia.io) where I lead a team of some of the world's most experienced Red Hat infrastructure and software consultants. We focuse on delivering hybrid Infrastructure , automation, cloud native application platform and integration solutions for enterprise, telecom and healthcare. I also 
+advise several technology startups in my spare time.
 
 ## Resume
 
@@ -59,8 +55,6 @@ information.
 | Certified [ScrumMaster®](https://www.scrumalliance.org/)                                      |
 | AWS Business Professional                                                                     |
 | AWS Technical Professional                                                                    |
-| Red Hat Sales Engineer Specialist (IaaS & Cloud Management)                                   |
-
-[Download PDF](/assets/images/geoff-sullivan-resume-2018.pdf){: .btn .btn--primary}
+| Multiple Red Hat Technical Accrediations (OpenShift, OpenStack, Ansible, Cloudforms, JBoss)   |
 
 ![pragmatic](/assets/images/prag.png "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum")
