@@ -36,7 +36,8 @@ information.
 
 | Company                      	| Role                	| Dates          	|
 |------------------------------	|---------------------	|----------------	|
-| [Juniper Networks](https://www.juniper.net/us/en/)             	| Marketing           	| 2016 - Present 	|   
+| [MOBIA Technology Innovations](https://www.mobia.io)             	| Red Hat Consulting           	| 2019 - Present 	|
+| [Juniper Networks](https://www.juniper.net/us/en/)             	| Marketing           	| 2016 - 2019 	|   
 | [MOBIA Technology Innovations](https://mobia.io/) 	| Cloud Practice Lead 	| 2015 - 2016    	|   
 | [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
 | Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
