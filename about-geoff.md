@@ -27,10 +27,10 @@ information.
 
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
-| Business Development  | Cloud Infrastructure        |
+| Tech Strategy         | Cloud Infrastructure        |
 | Marketing             | Software Defined Networking |
 | Partnerships          | DevOps                      |
-| Solution Architecture | Telecommunications          |
+| Business Development  | Telecommunications          |
 
 ### Experience
 
