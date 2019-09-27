@@ -27,6 +27,10 @@ Detailed technical analysis of software and infrastructure for merger & acquisit
 Here is a list of organizations who I actively advise for or am involved with in
 some capacity:
 
+### [faastRuby](https://faastruby.io/)
+
+I was brought on to help the founder of FaastRuby, a serverless software development platform startup create the go-to-market strategy via an open core and SaaS model. I spent 6 months helping out in many aspects of the project including marketing, business development, fundraising, and product development.
+
 ### [Meridian DLT](https://meridiandlt.com/)
 
 Meridian DLT is building an innovative green network leveraging Distributed
