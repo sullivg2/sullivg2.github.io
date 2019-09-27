@@ -14,7 +14,7 @@ of the technology landscape. My specialty is building and marketing highly
 technical infrastructure products, solutions and services to enterprises and
 service providers.
 
-## Services
+## Areas of Focus
 
 - **Technology Product/Service Go-to-market** - Product and service creation, positioning, market research, marketing & sales strategy for highly technical products and services
 - **Cloud Infrastructure Advisory** -
