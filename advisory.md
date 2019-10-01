@@ -30,7 +30,7 @@ Here is a list of companies who I have advised for.
 
 I was brought on to help the founder of FaastRuby, a serverless software development platform startup create the go-to-market strategy via an open core and SaaS model. I spent 6 months helping out in many aspects of the project including marketing, business development, fundraising, and product development.
 
-On October 1, 2019, it was [announced](https://faastruby.io/) that faastRuby would be come an internal 
+On October 1, 2019, it was [announced](https://faastruby.io/) that faastRuby would become an internal 
 project at [Shopify](https://engineering.shopify.com/). 
 
 ### [Meridian DLT](https://meridiandlt.com/)
