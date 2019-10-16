@@ -1,6 +1,6 @@
 ---
 title: "Geoff Sullivan"
-layout: home
+layout: splash
 permalink: /splash-page/
 author_profile: false
 classes: wide
