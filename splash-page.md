@@ -14,20 +14,20 @@ feature_row:
   - image_path: assets/images/BROM-CB.jpg
     image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "About Geoff"
+    title: "Product & Service Go-to-Market"
     excerpt: "Bio, work experience, & expertise"
     url: "https://geoffsullivan.net/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/BROMLEY-LTOWN.png
     alt: "placeholder image 2"
-    title: "Advisory"
+    title: "Cloud Infrastructure Advisory"
     excerpt: "Technoloy & go-to-market advisory services."
     url: "https://geoffsullivan.net/advisory"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/BROM-CB.jpg
-    title: "Blog"
+    title: "Technical Due Diligence"
     excerpt: "Writings about the business of technology and the technology of business"
     url: "https://geoffsullivan.net/"
     btn_label: "Read More"
