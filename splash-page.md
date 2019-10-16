@@ -2,7 +2,7 @@
 title: "Geoff Sullivan"
 layout: home
 permalink: /splash-page/
-author_profile: true
+author_profile: false
 classes: wide
 header:
   overlay_filter: "0.4"
