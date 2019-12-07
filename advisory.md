@@ -28,7 +28,7 @@ Here is a list of companies who I have advised for.
 
 ### [faastRuby](https://faastruby.io/)
 
-I was brought on to help the founder of FaastRuby, a serverless software development platform startup create the go-to-market strategy via an open core and SaaS model. I spent 6 months helping out in many aspects of the project including marketing, business development, fundraising, and product development.
+I was brought on to help the founder of FaastRuby, a serverless software development platform startup create the go-to-market strategy via an open core and SaaS model. I spent 6 months helping out in many aspects of the project including marketing, business development, fundraising, and product development. in the first 6 months, the [faastRuby Gem](https://rubygems.org/gems/faastruby/versions/0.5.30) was downloaded over 10k times and the project won an Outstanding Performance Award at the 2019 Fukuoka Ruby Award. 
 
 On October 1, 2019, it was [announced](https://faastruby.io/) that faastRuby would become an internal 
 project at [Shopify](https://engineering.shopify.com/). 
