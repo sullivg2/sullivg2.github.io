@@ -54,8 +54,8 @@ Cloud-A is a Canadian Infrastructure-as-a-service pioneer, and the first
 Canadian company to build and operate a public cloud built with OpenStack. Their
 mission is to disrupt how IT infrastructure is consumed, making it simpler
 to understand and manage so that your team is more productive. They do that by
-increasing visibility, insight, and the manageability of it. I actively advise
-Cloud-A on business and technology related matters.
+increasing visibility, insight, and the manageability of it. I remained a partner and actively advised
+for the company on business and technology related matters until December, 2019 when [it was announed](https://www.bloomberg.com/press-releases/2019-12-03/ampd-ventures-inc-goes-national-with-acquisition-of-cloud-a-inc-self-service-cloud-computing-platform) that Cloud-A would be aquired by [AMPD Ventures Inc.](https://www.ampd.tech/) a provider of high-performance cloud and compute solutions for low-latency applications including video games and eSports.
 
 ### [Tungsten Fabric](https://tungsten.io)
 
