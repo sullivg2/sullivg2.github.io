@@ -1,5 +1,5 @@
 ---
-title: "Geoff Sullivan"
+title: "Sullivan Stratgies"
 layout: splash
 permalink: /splash-page/
 author_profile: false
@@ -34,3 +34,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 {% include feature_row %}
+
+> "Our entire project felt a lift when Geoff began advising Meridian DLT, and it
+really seemed like a lot of our vision started becoming integrated with real
+world possibilities. Not only in bringing advanced understanding of our
+infrastructure and connectivity needs, but presenting them to diverse audiences
+in a way that we could build with and begin to implement." - [Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
