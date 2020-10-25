@@ -26,7 +26,7 @@ feature_row:
     url: "https://geoffsullivan.net/advisory"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/BROM-CB.jpg
+  - image_path: /assets/images/analytics.png
     title: "Go-to-Market"
     excerpt: "Writings about the business of technology and the technology of business"
     url: "https://geoffsullivan.net/"
