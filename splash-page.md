@@ -1,5 +1,5 @@
 ---
-title: "Sullivan Stratgies"
+title: "Sullivan Strategies"
 layout: splash
 permalink: /splash-page/
 author_profile: false
