@@ -18,7 +18,7 @@ values:
 header:
   image: #"assets/images/Panel.png"
 ---
-![discoposse](/assets/images/risq_2018.png "discoposse")
+![discoposse](/assets/images/DiscopossePodcastEpisode70.png "discoposse")
 
 FaastRuby creator Paulo Arruda and I joined Eric Wright on the Discoposse Podcast to discuss the motivations for creating of FaastRuby and the role of community in the project's growth.
 
