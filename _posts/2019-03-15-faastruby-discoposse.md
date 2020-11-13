@@ -26,4 +26,6 @@ FaastRuby creator Paulo Arruda and I joined Eric Wright on the Discoposse Podcas
 
 > Serverless is rightly gaining popularity and this will be a must-listen for folks who want to understand some of the challenges and the reasons that serverless is so popular."
 
+[![discoposse-faastruby](http://img.youtube.com/vi/XVd9ZL6bz4s/0.jpg)](http://www.youtube.com/watch?v=XVd9ZL6bz4s "discoposse-faastruby")
+
 [Listen now](http://podcast.discoposse.com/e/ep-70-the-making-of-faastrubyio-with-paolo-arruda-parrudanet-and-geoff-sullivan-sullivg2/)
