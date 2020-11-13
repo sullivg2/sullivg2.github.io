@@ -32,7 +32,7 @@ advise several technology startups in my spare time.
 
 | Company                      	| Role                	| Dates          	|
 |------------------------------	|---------------------	|----------------	|
-| [Bell Canada](https://www.bell.ca)             	| Edge/MEC Usecase Lead           	| May 2020 - Present 	|
+| [Bell Canada](https://www.bell.ca)             	| Edge/MEC Usecase Lead           	| Nov 2020 - Present 	|
 | [MOBIA Technology Innovations](https://www.mobia.io)             	| Office of the CTO           	| May 2020 - Present 	|
 | [MOBIA Technology Innovations](https://www.mobia.io)             	| Red Hat Consulting           	| 2019 - May 2020 	|
 | [Juniper Networks](https://www.juniper.net/us/en/)             	| Marketing           	| 2016 - 2019 	|   
