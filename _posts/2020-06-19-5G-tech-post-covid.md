@@ -1,5 +1,5 @@
 ---
-title:  "5G Tech in Post-COVID Canada"
+title:  "5G Tech in Post-COVID Canada - ICTC-CTIC Interview"
 categories:
  - Networking
  - 5G
