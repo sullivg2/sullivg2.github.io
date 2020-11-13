@@ -23,8 +23,8 @@ advise several technology startups in my spare time.
 
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
-| Tech Strategy         | Cloud Infrastructure        |
-| Marketing             | Software Defined Networking |
+| Strategy              | Cloud Infrastructure        |
+| Go-to-market          | Networking                  |
 | Partnerships          | DevOps                      |
 | Business Development  | Telecommunications          |
 
