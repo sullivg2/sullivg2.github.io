@@ -19,14 +19,12 @@ the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 Currently, I work for [MOBIA Technology Innovations](https://www.mobia.io) where I lead a team of some of the world's most experienced Red Hat infrastructure and software consultants. We focuse on delivering hybrid Infrastructure , automation, cloud native application platform and integration solutions for enterprise, telecom and healthcare. I also 
 advise several technology startups in my spare time.
 
-## Resume
-
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
 | Strategy              | Cloud Infrastructure        |
 | Go-to-market          | Networking                  |
 | Partnerships          | DevOps                      |
-| Business Development  | Telecommunications          |
+| Business Development  | Telco         |
 
 ### Experience
 
