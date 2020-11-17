@@ -7,7 +7,7 @@ toc: true
 ---
 ## Advisory
 
-I like to make time for side projects where I can add value and that allow me to
+I make time for side projects where I can add value and that allow me to
 grow and learn as a technology and business professional. As an advisor I
 describe myself as a cloud infrastructure specialist with a deep understanding
 of the technology landscape. My specialty is building and marketing highly
@@ -22,9 +22,7 @@ Market analysis, financial analysis, solution architecture, vendor selection
 - **Technical Due Diligence** -
 Detailed technical analysis of software and infrastructure for merger & acquisition scenarios
 
-## Companies
-
-Here is a list of companies who I have advised for. 
+## Projects
 
 ### [faastRuby](https://faastruby.io/)
 
