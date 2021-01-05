@@ -54,8 +54,7 @@ advise several technology startups in my spare time.
 | [Pragmatic Marketing Certified](https://www.pragmaticmarketing.com/) - Level Two (PMC-II)     |
 | Certified [ScrumMaster®](https://www.scrumalliance.org/)                                      |
 | Leadership for Organizational Excellence - [Sandler Training](https://www.sandler.com/programs/leadership-for-organizational-excellence/)|
-| AWS Business Professional                                                                     |
-| AWS Technical Professional                                                                    |
-| Multiple Red Hat Technical Accrediations (OpenShift, OpenStack, Ansible, Cloudforms, JBoss)   |
+| AWS Certified Cloud Practitioner                                                                  |
+| Multiple Red Hat Sales Engineer Accrediations (OpenShift, OpenStack, Ansible, Cloudforms, JBoss)   |
 
 ![pragmatic](/assets/images/prag.png "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum") [aws](/assets/images/aws-cert.png "aws")
