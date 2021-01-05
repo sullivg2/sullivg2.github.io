@@ -58,4 +58,4 @@ advise several technology startups in my spare time.
 | AWS Technical Professional                                                                    |
 | Multiple Red Hat Technical Accrediations (OpenShift, OpenStack, Ansible, Cloudforms, JBoss)   |
 
-![pragmatic](/assets/images/prag.png "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum")
+![pragmatic](/assets/images/prag.png "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum") [aws](/assets/images/aws-cert.png "aws")
