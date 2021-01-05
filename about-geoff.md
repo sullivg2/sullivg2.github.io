@@ -57,4 +57,4 @@ advise several technology startups in my spare time.
 | AWS Certified Cloud Practitioner                                                                  |
 | Multiple Red Hat Sales Engineer Accrediations (OpenShift, OpenStack, Ansible, Cloudforms, JBoss)   |
 
-![pragmatic](/assets/images/prag.png "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum") [aws](/assets/images/aws-cert.png "aws")
+![pragmatic](/assets/images/prag.png "pragmatic") ![scrum](/assets/images/scrummaster.png "scrum") ![aws](/assets/images/aws-cert.png "aws")
