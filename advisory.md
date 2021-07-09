@@ -3,7 +3,7 @@ layout: single
 permalink: /advisory
 author_profile: true
 classes: #wide
-toc: true
+toc: false
 ---
 ## Advisory
 

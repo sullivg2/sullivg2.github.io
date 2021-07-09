@@ -3,7 +3,7 @@ layout: single
 permalink: /about
 author_profile: true
 classes: #wide
-toc: true
+toc: false
 ---
 ## About Geoff
 
