@@ -10,8 +10,8 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  caption: ""
+excerpt: ""
 intro: 
   - excerpt: “Our entire project felt a lift when Geoff began advising Meridian DLT, and it really seemed like a lot of our vision started becoming integrated with real world possibilities.” - Matthew Pickup, Co-founder & Director of Development @ Meridian DLT
 feature_row:
@@ -20,7 +20,6 @@ feature_row:
     title: "Innovation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Go to Market"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
