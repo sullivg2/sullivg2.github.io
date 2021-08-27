@@ -59,7 +59,7 @@ advise several technology startups in my spare time.
 
 <p float="left">
   <img src="/assets/images/pmc2.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="/assets/images/scrummaster.png" width="100" /> 
+  <img src="/assets/images/AWS-CloudPractitioner-2020.png" width="100" />
 </p>
 
