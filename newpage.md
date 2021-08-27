@@ -1,5 +1,5 @@
 ---
-title: "New Page"
+title: "The business of technology and the technology of business "
 layout: splash
 permalink: /new-page/
 date: 2016-03-23T11:48:41-04:00
