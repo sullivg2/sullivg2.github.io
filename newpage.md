@@ -13,7 +13,9 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: “Our entire project felt a lift when Geoff began advising Meridian DLT, and it really seemed like a lot of our vision started becoming integrated with real world possibilities.” - Matthew Pickup, Co-founder & Director of Development @ Meridian DLT
+  - excerpt: > "Our entire project felt a lift when Geoff began advising Meridian DLT, and it
+really seemed like a lot of our vision started becoming integrated with real
+world possibilities." - [Matthew Pickup](https://www.linkedin.com/in/matthew-pickup-64883535/3), Co-founder & Director of Development @ [Meridian DLT](https://meridiandlt.com/)
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
