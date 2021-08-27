@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner5.png
   actions:
-    - label: "Download"
+    - label: "Learn more"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
 excerpt: "I help companies build and bring new, disruptive technology products and services to market"
