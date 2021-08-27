@@ -1,5 +1,5 @@
 ---
-title: "The business of technology and the technology of business "
+title: "I help companies build and bring new, disruptive technology products and services to market"
 layout: splash
 permalink: /new-page/
 date: 2016-03-23T11:48:41-04:00
@@ -11,7 +11,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
-excerpt: ""
+excerpt: "I help companies build and bring new, disruptive technology products and services to market"
 intro: 
   - excerpt: “Our entire project felt a lift when Geoff began advising Meridian DLT, and it really seemed like a lot of our vision started becoming integrated with real world possibilities.” - Matthew Pickup, Co-founder & Director of Development @ Meridian DLT
 feature_row:
