@@ -13,13 +13,7 @@ header:
   caption: ""
 excerpt: "I help companies build and bring new, disruptive technology products and services to market"
 intro: 
-  - excerpt: - I get excited about building and bringing new, disruptive technology products and services to market and finding early adopters.
-- I have a decade of experience helping telcos, software companies and enterprises navigate their technology-driven business transformations.
-- I have hands-on experience developing and executing international go-to-market strategies in Canada, USA, Latin America and parts of Europe and Asia
-- I have developed self-taught technical acuity in software development, cloud and networking and proven business acumen with a background in sales and marketing and experience in raising capital and operations.
-- I am a believer and advocate for the power of open source software and community driven innovation
-- I am a seeker of knowledge who isn't afraid to make mistakes for the sake of learnings.
-- I have spent and have enjoyed 6 years working remote in globally distributed, agile-practicing teams.
+  - excerpt: “Our entire project felt a lift when Geoff began advising Meridian DLT, and it really seemed like a lot of our vision started becoming integrated with real world possibilities.” - Matthew Pickup, Co-founder & Director of Development @ Meridian DLT
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
