@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
-  overlay_image: /assets/images/risq2.jpg
+  overlay_image: /assets/images/banner5.png
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
