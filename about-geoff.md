@@ -57,5 +57,9 @@ advise several technology startups in my spare time.
 | [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)                                                                  |
 | Multiple Red Hat Sales Engineer Accrediations (OpenShift, OpenStack, Ansible, Cloudforms, JBoss)   |
 
-![PMC-2 Badge](/assets/images/pmc2.png "PMC-2")
+<p float="left">
+  <img src="/assets/images/pmc2.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
