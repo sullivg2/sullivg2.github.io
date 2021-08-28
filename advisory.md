@@ -5,6 +5,8 @@ author_profile: true
 classes: wide
 toc: false
 ---
+![RISQ](/assets/img/risq2.jpg "RISQ")
+
 ## Advisory
 
 I make time for side projects where I can add value and that allow me to
