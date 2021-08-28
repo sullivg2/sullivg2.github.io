@@ -13,7 +13,7 @@ header:
   caption: ""
 excerpt: "I help companies build and bring new, disruptive technology products and services to market"
 intro: 
-  - excerpt: “I specialize in helping organizations build and market early stage technologies in the enterprise, telecommunications and software markets.
+  - excerpt: I specialize in helping organizations build and market early stage technologies in the enterprise, telecommunications and software markets.
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
