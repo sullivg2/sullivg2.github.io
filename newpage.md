@@ -15,7 +15,7 @@ excerpt: "I help companies build and bring new, disruptive technology products a
 intro: 
   - excerpt: I specialize in helping organizations build and market early stage technologies in the enterprise, telecommunications and software markets.
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/lightbulb.png
     alt: "placeholder image 1"
     title: "Innovation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
