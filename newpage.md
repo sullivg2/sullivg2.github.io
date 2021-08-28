@@ -15,11 +15,11 @@ excerpt: "I help companies build and bring new, disruptive technology products a
 intro: 
   - excerpt: I specialize in helping organizations build and market early stage technologies in the enterprise, telecommunications and software markets.
 feature_row:
-  - image_path: assets/images/lightbulb2.png
+  - image_path: 
     alt: "placeholder image 1"
     title: "Innovation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: 
     alt: "placeholder image 2"
     title: "Product"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -30,7 +30,7 @@ feature_row:
     title: "Go to Market"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: 
     alt: "placeholder image 2"
     title: "Go to Market"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
