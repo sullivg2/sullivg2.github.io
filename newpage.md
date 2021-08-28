@@ -38,7 +38,7 @@ feature_row3:
   - image_path: /assets/images/geoffnewheadshot.jpeg
     alt: "Meet Geoff Sullivan"
     title: "Meet Geoff"
-    excerpt: 'I am a technology advisor who is fascinated about the business of technology, and the technology of business. My background is in business development, marketing , partners & alliances, and solution deisgn and architecture, all within the ICT sector. My speciality is building and bringing highly technical, disruptive products and services to market.'
+    excerpt: 'I am a passionate technologist who has spent the past decade helping companies of all sizes – from start-ups to some of the world’s largest telecom providers – navigate their technology and business transformations. When I am not busy talking about cloud, networking, 5G and telecom, you’ll find me exploring the great outdoors with my partner Amy and their dog Ruby.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
