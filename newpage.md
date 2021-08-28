@@ -41,7 +41,7 @@ feature_row3:
   - image_path: /assets/images/geoffnewheadshot.jpeg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'I am a technology advisor who is fascinated about the business of technology, and the technology of business. My background is in business development, marketing , partners & alliances, and solution deisgn and architecture, all within the ICT sector. My speciality is building and bringing highly technical, disruptive products and services to market.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -58,5 +58,3 @@ feature_row4:
 {% include feature_row %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
