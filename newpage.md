@@ -13,7 +13,7 @@ header:
   caption: ""
 excerpt: "I help companies build and bring new, disruptive technology products and services to market"
 intro: 
-  - excerpt: “Our entire project felt a lift when Geoff began advising Meridian DLT, and it really seemed like a lot of our vision started becoming integrated with real world possibilities.” - Matthew Pickup, Co-founder & Director of Development @ Meridian DLT
+  - excerpt: “I specialize in helping organizations build and market early stage technologies in the enterprise, telecommunications and software markets.
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
