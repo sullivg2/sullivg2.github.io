@@ -1,5 +1,5 @@
 ---
-title: "I help companies build and bring new, disruptive technology products and services to market"
+title: "The business of technology"
 layout: splash
 permalink: /new-page/
 date: 2016-03-23T11:48:41-04:00
