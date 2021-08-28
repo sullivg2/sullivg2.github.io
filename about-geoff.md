@@ -18,7 +18,7 @@ the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 
 Currently, I work for [MOBIA Technology Innovations](https://www.mobia.io) where I lead a team of some of the world's most experienced Red Hat infrastructure and software consultants. We focuse on delivering hybrid Infrastructure , automation, cloud native application platform and integration solutions for enterprise, telecom and healthcare. I also advise several technology startups in my spare time.
 
-After years living in Montreal and Toronto I recently relocated back to Nova Scotia where I live with my partner, dog and cat. In my spare time I like to play music, fly fishing and Muay Thai.
+After years living in Montreal and Toronto I recently relocated back to Nova Scotia where I live with my partner, dog and cat. In my spare time I like to play music, fly fishing and train Muay Thai.
 
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
