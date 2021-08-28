@@ -39,8 +39,8 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/geoffnewheadshot.jpeg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    alt: "Meet Geoff Sullivan"
+    title: "Meet Geoff"
     excerpt: 'I am a technology advisor who is fascinated about the business of technology, and the technology of business. My background is in business development, marketing , partners & alliances, and solution deisgn and architecture, all within the ICT sector. My speciality is building and bringing highly technical, disruptive products and services to market.'
     url: "#test-link"
     btn_label: "Read More"
