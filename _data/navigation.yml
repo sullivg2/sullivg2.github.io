@@ -6,7 +6,7 @@ main:
     url: https://sullivg2.github.io/about
   - title: "Advisory"
     url: /advisory
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Posts"
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
