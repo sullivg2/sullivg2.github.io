@@ -26,7 +26,15 @@ Detailed technical analysis of software and infrastructure for merger & acquisit
 
 ## Projects
 
-### [Bell Canada - Network as a Service]
+### [Bell Canada - Network as a Service](www.bell.ca)
+
+Working on Bell's MEC & 5G Service Innovation team, we take a user-centric & hypothesis-driven approach to product research innovation. I was responsible for applying lean startup principles to take new 5G and MEC use cases from inception through ideation, prototyping, beta and product launch stages.
+
+Technologies Explored:
+- open source 4G and 5G technologies (O-RAN, vRAN, Magma)
+- Hyperscaler edge technologies
+- Cloud native networks
+- Next generation connectivity technologies
 
 ### [faastRuby](https://faastruby.io/)
 
