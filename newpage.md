@@ -46,7 +46,7 @@ feature_row4:
   - image_path: 
     alt: "placeholder image 2"
     title: "Get in touch"
-    excerpt: 'If you would like to discuss a project fill out the form below and I will be in touch shortly.' <input type="text" id="name" name="name"/>
+    excerpt: 'If you would like to discuss a project fill out the form below and I will be in touch shortly.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
