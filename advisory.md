@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 toc: false
 ---
-![RISQ](/assets/img/risq2.jpg "RISQ")
+![RISQ](/assets/images/risq2.jpg "RISQ")
 
 ## Advisory
 
