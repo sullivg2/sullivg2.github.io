@@ -5,7 +5,7 @@ permalink: /new-page/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#66C031"
-  overlay_filter: "0.25"
+  overlay_filter: "0.75"
   overlay_image: /assets/images/banner5.png
   actions:
     - label: "Learn more"
