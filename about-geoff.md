@@ -16,8 +16,9 @@ supporting the adoption of [OpenStack](https://www.openstack.org/) and other
 open source projects. I was also a community ambassador for
 the [Tungsten Fabric](https://tungsten.io/) community (formally OpenContrail.)
 
-Currently, I work for [MOBIA Technology Innovations](https://www.mobia.io) where I lead a team of some of the world's most experienced Red Hat infrastructure and software consultants. We focuse on delivering hybrid Infrastructure , automation, cloud native application platform and integration solutions for enterprise, telecom and healthcare. I also 
-advise several technology startups in my spare time.
+Currently, I work for [MOBIA Technology Innovations](https://www.mobia.io) where I lead a team of some of the world's most experienced Red Hat infrastructure and software consultants. We focuse on delivering hybrid Infrastructure , automation, cloud native application platform and integration solutions for enterprise, telecom and healthcare. I also advise several technology startups in my spare time.
+
+After years living in Montreal and Toronto I recently relocated back to Nova Scotia where I live with my partner, dog and cat. In my spare time I like to play music, fly fishing and Muay Thai.
 
 | Skills                | Domain Expertise            |
 |-----------------------|-----------------------------|
