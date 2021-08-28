@@ -11,9 +11,9 @@ header:
     - label: "Learn more"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: ""
-excerpt: "I help companies build and bring new, disruptive technology products and services to market"
+excerpt: "I help companies ideate, build and bring new, disruptive technology products and services to market"
 intro: 
-  - excerpt: I specialize in helping organizations build and market early stage technologies in the enterprise, telecommunications and software markets.
+  - excerpt: I specialize in helping organizations ideate, build and market early stage technologies in the enterprise, telecommunications and software markets.
 feature_row:
   - image_path: 
     alt: "placeholder image 1"
