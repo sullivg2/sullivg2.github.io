@@ -21,7 +21,7 @@ title_separator          : " | "
 name                     : "Geoff Sullivan"
 description              : "The Business of Technology and the Technology of
                            Business"
-url                      : "https://geoffsullivan.com"
+url                      : #"https://geoffsullivan.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
