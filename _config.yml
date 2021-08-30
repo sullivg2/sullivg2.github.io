@@ -103,10 +103,10 @@ analytics:
 author:
   name             : "Geoff Sullivan"
   avatar           : "/assets/images/geoffnewheadshot.jpeg"
-  bio              : "Writings about the business of technology and the
+  bio              : "The business of technology and the
                       technology of business"
   location         : "Canada"
-  email            : "geoff@geoffsullivan.net"
+  email            : "geoffrsullivan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
