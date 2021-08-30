@@ -29,15 +29,15 @@ After years living in Montreal and Toronto I recently relocated back to Nova Sco
 
 ### Experience
 
-| Company                      	| Role                	| Dates          	|
-|------------------------------	|---------------------	|----------------	|
-| [Bell Canada](https://www.bell.ca)             	| Edge/MEC Usecase Lead           	| Nov 2020 - Present 	|
-| [MOBIA Technology Innovations](https://www.mobia.io)             	| Office of the CTO           	| May 2020 - Present 	|
-| [MOBIA Technology Innovations](https://www.mobia.io)             	| Red Hat Consulting           	| 2019 - May 2020 	|
-| [Juniper Networks](https://www.juniper.net/us/en/)             	| Marketing           	| 2016 - 2019 	|   
-| [MOBIA Technology Innovations](https://mobia.io/) 	| Cloud Practice Lead 	| 2015 - 2016    	|   
-| [Cloud-A](https://www.clouda.ca)                      	| Head of Growth      	| 2014 - 2015    	|
-| Dymaxion Research Limited     | Account Manager      	| 2012 - 2014    	|
+| Company                       | Role                 | Dates           |
+|------------------------------ |--------------------- |---------------- |
+| [Bell Canada](https://www.bell.ca)              | Edge/MEC Usecase Lead            | Nov 2020 - Present  |
+| [MOBIA Technology Innovations](https://www.mobia.io)              | Office of the CTO            | May 2020 - Present  |
+| [MOBIA Technology Innovations](https://www.mobia.io)              | Red Hat Consulting            | 2019 - May 2020  |
+| [Juniper Networks](https://www.juniper.net/us/en/)              | Marketing            | 2016 - 2019  |
+| [MOBIA Technology Innovations](https://mobia.io/)  | Cloud Practice Lead  | 2015 - 2016     |
+| [Cloud-A](https://www.clouda.ca)                       | Head of Growth       | 2014 - 2015     |
+| Dymaxion Research Limited     | Account Manager       | 2012 - 2014     |
 
 ### Speaking
 
@@ -60,7 +60,6 @@ After years living in Montreal and Toronto I recently relocated back to Nova Sco
 
 <p float="left">
   <img src="/assets/images/pmc2.png" width="125" />
-  <img src="/assets/images/scrummaster.png" width="125" /> 
+  <img src="/assets/images/scrummaster.png" width="125" />
   <img src="/assets/images/AWS-CloudPractitioner-2020.png" width="125" />
 </p>
-
