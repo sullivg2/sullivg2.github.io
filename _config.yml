@@ -21,8 +21,8 @@ title_separator          : " | "
 name                     : "Geoff Sullivan"
 description              : "The Business of Technology and the Technology of
                            Business"
-url                      : "https://sullivg2.github.io"
-baseurl                  : "https://sullivg2.github.io/new-page"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
