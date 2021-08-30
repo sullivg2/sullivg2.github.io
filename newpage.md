@@ -1,7 +1,7 @@
 ---
 title: "The business of technology"
 layout: splash
-permalink: /
+permalink: /GEOFFY
 header:
   overlay_color: "#252A34"
   overlay_filter: "0.25"
