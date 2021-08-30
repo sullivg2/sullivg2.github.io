@@ -1,7 +1,7 @@
 ---
 title: "The business of technology"
 layout: splash
-permalink: /new-page/
+permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#66C031"
