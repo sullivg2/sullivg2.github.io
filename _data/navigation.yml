@@ -7,6 +7,6 @@ main:
   - title: "Advisory"
     url: /advisory
   - title: "Posts"
-    url: /collection-archive/
+    url: /posts/index.html
   # - title: "Sitemap"
   #   url: /sitemap/
