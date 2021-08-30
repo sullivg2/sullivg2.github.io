@@ -37,8 +37,8 @@ feature_row3:
   - image_path: /assets/images/geoffnewheadshot.jpeg
     alt: "Meet Geoff Sullivan"
     title: "Meet Geoff"
-    excerpt: 'I am a passionate technologist who has spent the past decade helping companies of all sizes – from start-ups to some of the world’s largest telecom providers – navigate their technology and business transformations. When I am not busy talking about cloud, networking, 5G and telecom, you’ll find me exploring the great outdoors with my partner Amy and their dog Ruby.'
-    url: "#test-link"
+    excerpt: 'I am a passionate technologist who has spent the past decade helping companies of all sizes – from start-ups to some of the world’s largest telecom providers – navigate their technology and business transformations.
+    url: "/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
