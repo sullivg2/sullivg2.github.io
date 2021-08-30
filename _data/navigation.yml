@@ -1,12 +1,10 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Geoff"
-    url: https://sullivg2.github.io/about
+    url: /about
   - title: "Advisory"
     url: /advisory
   - title: "Posts"
-    url: /posts/index.html
+    url: /posts/
   # - title: "Sitemap"
   #   url: /sitemap/
