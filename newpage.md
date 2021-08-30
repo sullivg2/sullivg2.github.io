@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/banner5.png
   actions:
     - label: "Learn more"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://geoffsullivan.com/about"
   caption: ""
 excerpt: "I help companies ideate, build and bring new, disruptive technology products and services to market"
 intro: 
